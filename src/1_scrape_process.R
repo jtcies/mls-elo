@@ -6,6 +6,9 @@ library(here)
 
 # functions --------
 
+trim_right <- function(x) {
+  gsub("\\s+$", "", x)
+}
 
 # START SELENIUM SERVER FIRST BEFORE RUNNING THIS
 # in terminal: "java -jar selenium-server-standalone-2.53.1.jar -port 5556"
@@ -75,18 +78,44 @@ mls <- map2_dfr(
 )
 
 # clean up
-mls_tidy <- mls %>% 
-  filter(home_team != "MLS All-Stars") %>% 
+games <- mls %>% 
+  filter(!grepl("MLS All-Stars", home_team)) %>% 
   separate(date, into = c("date", "time"), sep = " ") %>% 
   mutate(
-    home_team = trimws(home_team),
-    away_team = trimws(if_else(col3 == home_team, col4, col3)),
+    home_team = home_team,
+    away_team = if_else(col3 == home_team, col4, col3),
     date = dmy(paste0(date, ".", season)),
     penalties = if_else(grepl("\\([0-9]+\\s:\\s[0-9]+\\)", score), 1, 0),
     score = gsub("\\([0-9]+\\s:\\s[0-9]+\\)", "", score)
   ) %>% 
+  # remove trailing white space (trimws not working b/c encoding)
+  mutate_at(vars(home_team, away_team), trim_right) %>% 
   separate(score, into = c("home_final", "away_final")) %>% 
-  select(-col3, -col4) %>% 
+  select(-col3, -col4, -time) %>% 
   arrange(date)
 
-write_csv(mls_tidy, here::here("data/processed/mls_2010-2018.csv"))
+# teams table
+
+teams <- games %>% 
+  distinct(home_team) %>% 
+  rename(team = home_team) %>% 
+  mutate(
+    season = case_when(
+      team %in% c("Vancouver Whitecaps", "Portland Timbers") ~ 2011,
+      team == "Montreal Impact" ~ 2012,
+      team %in% c("New York City", "Orlando City") ~ 2015,
+      team %in% c("Atlanta United", "Minnesota") ~ 2017,
+      team == "Los Angeles FC" ~ 2018,
+      TRUE ~ 2010
+    ),
+    elo = case_when(
+      team == "Philadelphia Union" ~ 1300,
+      season != 2010 ~ 1300,
+      TRUE ~ 1500
+    ),
+    date = ymd(paste0(season, "0301"))
+  )
+
+write_csv(games, here::here("data/processed/mls_2010-2018.csv"))
+
+write_csv(teams, here::here("data/processed/mls_teams.csv"))
