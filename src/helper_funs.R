@@ -102,3 +102,11 @@ accuracy_count <- function(games, complete_elo) {
     )
   sum(win_prob$correct_pred) / nrow(win_prob)
 }
+
+elo_run <- function(k_value, home_bonus, carry_value, initial_elos) {
+  elo.run(score(home_final, away_final) ~ adjust(home_team, home_bonus) +
+                 away_team + regress(season, 1500, carry_value),
+               data = games,
+               k = k_value,
+               initial.elos = initial_elos)
+}
