@@ -24,8 +24,8 @@ browser$open(silent = FALSE)
 # 'lod more' clicks and scraping all the data
 
 site_years <- data.frame(
-  year = 2010:2018,
-  load_clicks = c(2, rep(3, 8))
+  year = 1998:2018,
+  load_clicks = c(rep(2, 3), rep(1, 5), rep(2, 5), rep(3, 8))
 )
 
 scrape <- function(year, clicks) {

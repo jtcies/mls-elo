@@ -8,7 +8,7 @@ source(here::here("src/helper_funs.R"))
 
 k_value = 18
 home_bonus = 100
-carry_value = 0.45
+carry_value = 0.55
 initial_elo = NULL
 
 # import ---------------
@@ -86,11 +86,18 @@ win_prob <- bind_rows(home_win_prob, away_win_prob) %>%
   mutate(
     upset_win = case_when(
       win_prob < 0.5 & win == 1 ~ 1,
-      TRUE ~ 0
+      win_prob < 0.5 & win == 0 ~ 0,
+      TRUE ~ NA_real_
     ),
     upset_loss = case_when(
       win_prob > 0.5 & win == 0 ~ 1,
-      TRUE ~ 0
+      win_prob > 0.5 & win == 1 ~ 0,
+      TRUE ~ NA_real_
+    ),
+    big_loss = case_when(
+      win_prob > 0.6 & win == 0 ~ 1,
+      win_prob > 0.6 & win == 1 ~ 0,
+      TRUE ~ NA_real_
     )
   )
 
@@ -101,8 +108,14 @@ ggplot(complete_elo, aes(date, elo_before, group = team)) +
 
 win_prob %>% 
   group_by(team) %>% 
-  summarise(mean_upset_loss = mean(upset_loss)) %>% 
-  arrange(desc(mean_upset_loss))
+  summarise(
+    mean_upset_loss = mean(upset_loss, na.rm = TRUE),
+    mean_upset_win = mean(upset_win, na.rm = TRUE),
+    mean_big_loss = mean(big_loss, na.rm = TRUE)
+  ) %>% 
+  arrange(desc(mean_upset_loss)) %>% 
+  as.data.frame()
+
 
 
 # write -----------

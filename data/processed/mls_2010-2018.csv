@@ -1,4 +1,2351 @@
 season,date,home_team,home_final,away_final,away_team,penalties
+1998,1998-03-14,Miami,0,2,DC United,0
+1998,1998-03-20,DC United,3,2,Sporting Kansas City,0
+1998,1998-03-20,FC Dallas,2,1,Colorado Rapids,1
+1998,1998-03-20,Los Angeles Galaxy,4,3,Houston Dynamo,1
+1998,1998-03-20,Miami,0,2,Chicago Fire,0
+1998,1998-03-20,Mutiny,1,2,Columbus Crew,0
+1998,1998-03-25,Mutiny,0,1,Miami,1
+1998,1998-03-27,Houston Dynamo,2,3,Colorado Rapids,1
+1998,1998-03-27,Los Angeles Galaxy,3,2,New York Red Bulls,0
+1998,1998-03-28,DC United,2,1,New England Revolution,1
+1998,1998-03-28,FC Dallas,2,1,Columbus Crew,0
+1998,1998-04-03,Chicago Fire,2,0,Mutiny,0
+1998,1998-04-03,Colorado Rapids,0,1,Los Angeles Galaxy,0
+1998,1998-04-03,Columbus Crew,2,1,DC United,0
+1998,1998-04-03,Miami,2,1,New England Revolution,0
+1998,1998-04-03,Sporting Kansas City,2,0,New York Red Bulls,0
+1998,1998-04-04,Houston Dynamo,2,3,FC Dallas,1
+1998,1998-04-07,Sporting Kansas City,1,0,Chicago Fire,0
+1998,1998-04-10,Columbus Crew,3,2,New England Revolution,0
+1998,1998-04-10,DC United,4,3,Colorado Rapids,1
+1998,1998-04-10,Houston Dynamo,1,0,Chicago Fire,0
+1998,1998-04-10,Miami,2,1,Sporting Kansas City,1
+1998,1998-04-10,Mutiny,3,1,FC Dallas,0
+1998,1998-04-10,New York Red Bulls,2,3,Los Angeles Galaxy,0
+1998,1998-04-16,Chicago Fire,0,1,New York Red Bulls,0
+1998,1998-04-17,Columbus Crew,5,1,Miami,0
+1998,1998-04-17,FC Dallas,1,2,Houston Dynamo,0
+1998,1998-04-17,New England Revolution,2,1,DC United,1
+1998,1998-04-17,Sporting Kansas City,1,2,Los Angeles Galaxy,0
+1998,1998-04-18,Colorado Rapids,3,0,Mutiny,0
+1998,1998-04-24,Colorado Rapids,5,4,Chicago Fire,1
+1998,1998-04-24,FC Dallas,3,1,Sporting Kansas City,0
+1998,1998-04-24,Los Angeles Galaxy,5,1,Mutiny,0
+1998,1998-04-24,New England Revolution,3,0,Miami,0
+1998,1998-04-24,New York Red Bulls,4,3,Houston Dynamo,0
+1998,1998-04-25,DC United,2,1,Columbus Crew,1
+1998,1998-04-28,DC United,3,1,Houston Dynamo,0
+1998,1998-04-28,Sporting Kansas City,0,2,Los Angeles Galaxy,0
+1998,1998-04-29,Mutiny,0,1,Columbus Crew,0
+1998,1998-05-01,Chicago Fire,1,3,DC United,0
+1998,1998-05-01,Miami,3,2,Colorado Rapids,0
+1998,1998-05-02,Houston Dynamo,1,3,New England Revolution,0
+1998,1998-05-02,Mutiny,0,1,New York Red Bulls,0
+1998,1998-05-05,Los Angeles Galaxy,7,4,Colorado Rapids,0
+1998,1998-05-05,New York Red Bulls,0,1,FC Dallas,0
+1998,1998-05-08,Colorado Rapids,2,3,Houston Dynamo,0
+1998,1998-05-08,DC United,2,0,New York Red Bulls,0
+1998,1998-05-08,Miami,2,0,Columbus Crew,0
+1998,1998-05-09,New England Revolution,4,3,Mutiny,0
+1998,1998-05-12,DC United,3,2,New England Revolution,0
+1998,1998-05-12,Mutiny,2,1,Sporting Kansas City,0
+1998,1998-05-15,FC Dallas,2,1,Colorado Rapids,0
+1998,1998-05-15,Houston Dynamo,2,0,Miami,0
+1998,1998-05-15,Mutiny,1,2,Chicago Fire,0
+1998,1998-05-15,New England Revolution,1,3,Sporting Kansas City,0
+1998,1998-05-15,New York Red Bulls,4,3,DC United,0
+1998,1998-05-16,Columbus Crew,2,4,Los Angeles Galaxy,0
+1998,1998-05-19,Chicago Fire,3,1,Los Angeles Galaxy,0
+1998,1998-05-19,FC Dallas,1,2,Sporting Kansas City,1
+1998,1998-05-21,New England Revolution,0,2,Columbus Crew,0
+1998,1998-05-22,Chicago Fire,5,0,Colorado Rapids,0
+1998,1998-05-22,DC United,3,2,Mutiny,0
+1998,1998-05-22,Los Angeles Galaxy,4,1,FC Dallas,0
+1998,1998-05-22,New York Red Bulls,4,2,Miami,0
+1998,1998-05-22,Sporting Kansas City,0,1,Houston Dynamo,0
+1998,1998-05-26,Sporting Kansas City,2,1,Columbus Crew,1
+1998,1998-05-27,Colorado Rapids,3,0,Miami,0
+1998,1998-05-29,Columbus Crew,4,1,Houston Dynamo,0
+1998,1998-05-29,Los Angeles Galaxy,1,2,Chicago Fire,1
+1998,1998-05-29,Mutiny,1,2,DC United,1
+1998,1998-05-30,Colorado Rapids,2,1,Sporting Kansas City,0
+1998,1998-05-30,FC Dallas,2,0,Miami,0
+1998,1998-05-30,New England Revolution,1,2,New York Red Bulls,1
+1998,1998-06-02,Houston Dynamo,0,4,DC United,0
+1998,1998-06-02,New York Red Bulls,1,2,Mutiny,0
+1998,1998-06-03,FC Dallas,1,8,Los Angeles Galaxy,0
+1998,1998-06-05,Chicago Fire,2,0,Columbus Crew,0
+1998,1998-06-05,Colorado Rapids,2,0,Houston Dynamo,0
+1998,1998-06-05,Sporting Kansas City,1,0,Mutiny,0
+1998,1998-06-06,DC United,4,5,FC Dallas,1
+1998,1998-06-06,Los Angeles Galaxy,5,1,New England Revolution,0
+1998,1998-06-06,Miami,1,2,New York Red Bulls,0
+1998,1998-06-10,Chicago Fire,5,2,Houston Dynamo,0
+1998,1998-06-12,Columbus Crew,3,4,DC United,1
+1998,1998-06-12,New York Red Bulls,3,1,Miami,0
+1998,1998-06-13,New England Revolution,1,3,Chicago Fire,0
+1998,1998-06-16,Chicago Fire,1,0,FC Dallas,0
+1998,1998-06-17,Los Angeles Galaxy,2,1,Colorado Rapids,0
+1998,1998-06-19,Columbus Crew,2,1,New York Red Bulls,0
+1998,1998-06-20,FC Dallas,0,1,Mutiny,0
+1998,1998-06-23,Chicago Fire,4,1,Sporting Kansas City,0
+1998,1998-06-23,New York Red Bulls,5,3,New England Revolution,0
+1998,1998-06-24,Colorado Rapids,3,1,DC United,0
+1998,1998-06-26,Houston Dynamo,1,2,Los Angeles Galaxy,0
+1998,1998-06-26,Miami,2,1,Mutiny,1
+1998,1998-06-26,New England Revolution,3,4,FC Dallas,1
+1998,1998-06-30,Chicago Fire,4,1,FC Dallas,0
+1998,1998-06-30,Sporting Kansas City,1,0,New England Revolution,0
+1998,1998-07-01,DC United,3,1,Miami,0
+1998,1998-07-02,Houston Dynamo,2,1,Columbus Crew,1
+1998,1998-07-03,Colorado Rapids,1,0,New York Red Bulls,0
+1998,1998-07-03,FC Dallas,0,1,Chicago Fire,0
+1998,1998-07-03,Los Angeles Galaxy,2,0,Sporting Kansas City,0
+1998,1998-07-03,Mutiny,2,3,New England Revolution,0
+1998,1998-07-08,Columbus Crew,3,0,Chicago Fire,0
+1998,1998-07-10,Colorado Rapids,2,1,New England Revolution,0
+1998,1998-07-10,DC United,3,0,Los Angeles Galaxy,0
+1998,1998-07-10,New York Red Bulls,1,2,Mutiny,0
+1998,1998-07-10,Sporting Kansas City,2,0,FC Dallas,0
+1998,1998-07-14,Miami,3,2,Houston Dynamo,1
+1998,1998-07-14,Mutiny,1,3,Los Angeles Galaxy,0
+1998,1998-07-14,New England Revolution,0,1,DC United,0
+1998,1998-07-17,DC United,4,1,Chicago Fire,0
+1998,1998-07-17,FC Dallas,1,3,New England Revolution,0
+1998,1998-07-17,Houston Dynamo,0,1,Mutiny,0
+1998,1998-07-17,Los Angeles Galaxy,2,3,Miami,1
+1998,1998-07-18,New York Red Bulls,3,0,Columbus Crew,0
+1998,1998-07-18,Sporting Kansas City,4,1,Colorado Rapids,0
+1998,1998-07-24,Columbus Crew,1,2,FC Dallas,0
+1998,1998-07-24,Houston Dynamo,2,1,Sporting Kansas City,1
+1998,1998-07-24,Los Angeles Galaxy,0,1,DC United,0
+1998,1998-07-24,Mutiny,2,3,Colorado Rapids,0
+1998,1998-07-24,New York Red Bulls,3,2,Chicago Fire,0
+1998,1998-07-25,New England Revolution,1,2,Miami,0
+1998,1998-07-28,DC United,3,2,Mutiny,1
+1998,1998-07-28,FC Dallas,3,0,Los Angeles Galaxy,0
+1998,1998-07-28,Houston Dynamo,3,0,Chicago Fire,0
+1998,1998-07-28,Miami,3,2,Columbus Crew,0
+1998,1998-07-28,New England Revolution,1,3,Colorado Rapids,0
+1998,1998-07-28,New York Red Bulls,3,2,Sporting Kansas City,1
+1998,1998-08-04,Colorado Rapids,1,6,Los Angeles Galaxy,0
+1998,1998-08-04,New England Revolution,3,0,Houston Dynamo,0
+1998,1998-08-05,Mutiny,3,1,Miami,0
+1998,1998-08-06,FC Dallas,0,1,DC United,0
+1998,1998-08-07,Chicago Fire,1,2,Los Angeles Galaxy,0
+1998,1998-08-07,Columbus Crew,6,1,New England Revolution,0
+1998,1998-08-07,Sporting Kansas City,3,1,Colorado Rapids,0
+1998,1998-08-08,Houston Dynamo,5,1,New York Red Bulls,0
+1998,1998-08-11,New York Red Bulls,3,1,Columbus Crew,0
+1998,1998-08-12,Los Angeles Galaxy,3,0,Sporting Kansas City,0
+1998,1998-08-13,Mutiny,1,2,New England Revolution,1
+1998,1998-08-14,Chicago Fire,2,1,Houston Dynamo,0
+1998,1998-08-14,Colorado Rapids,0,1,FC Dallas,0
+1998,1998-08-14,Miami,3,1,New York Red Bulls,0
+1998,1998-08-15,Columbus Crew,5,3,Sporting Kansas City,0
+1998,1998-08-17,New York Red Bulls,4,1,Colorado Rapids,0
+1998,1998-08-18,Miami,2,1,FC Dallas,0
+1998,1998-08-20,Colorado Rapids,0,2,Chicago Fire,0
+1998,1998-08-21,Columbus Crew,3,1,Mutiny,0
+1998,1998-08-21,DC United,2,1,New York Red Bulls,0
+1998,1998-08-21,Houston Dynamo,2,1,FC Dallas,1
+1998,1998-08-21,New England Revolution,1,5,Los Angeles Galaxy,0
+1998,1998-08-22,Sporting Kansas City,2,0,Miami,0
+1998,1998-08-25,Sporting Kansas City,1,2,DC United,0
+1998,1998-08-28,FC Dallas,2,0,New York Red Bulls,0
+1998,1998-08-28,Houston Dynamo,1,3,Colorado Rapids,0
+1998,1998-08-28,Los Angeles Galaxy,0,3,Columbus Crew,0
+1998,1998-08-28,Mutiny,3,2,DC United,1
+1998,1998-08-28,Sporting Kansas City,2,3,Chicago Fire,1
+1998,1998-08-29,Miami,3,2,New England Revolution,0
+1998,1998-09-01,Chicago Fire,3,2,Miami,0
+1998,1998-09-01,Colorado Rapids,3,2,Sporting Kansas City,0
+1998,1998-09-01,Los Angeles Galaxy,3,0,FC Dallas,0
+1998,1998-09-01,New York Red Bulls,0,2,New England Revolution,0
+1998,1998-09-02,Mutiny,2,1,Houston Dynamo,0
+1998,1998-09-04,Miami,3,5,Los Angeles Galaxy,0
+1998,1998-09-04,Sporting Kansas City,5,1,Houston Dynamo,0
+1998,1998-09-05,Columbus Crew,4,3,New York Red Bulls,0
+1998,1998-09-08,Columbus Crew,1,0,Miami,0
+1998,1998-09-09,FC Dallas,3,2,Chicago Fire,0
+1998,1998-09-11,New England Revolution,2,0,Columbus Crew,0
+1998,1998-09-12,Chicago Fire,3,1,Colorado Rapids,0
+1998,1998-09-12,FC Dallas,1,3,Houston Dynamo,0
+1998,1998-09-12,Miami,4,3,DC United,0
+1998,1998-09-12,Mutiny,2,1,New York Red Bulls,0
+1998,1998-09-15,Columbus Crew,2,4,Colorado Rapids,0
+1998,1998-09-15,Houston Dynamo,0,1,Los Angeles Galaxy,1
+1998,1998-09-15,New York Red Bulls,0,5,DC United,0
+1998,1998-09-16,Chicago Fire,1,0,Sporting Kansas City,0
+1998,1998-09-18,Colorado Rapids,2,1,Columbus Crew,0
+1998,1998-09-18,DC United,1,3,Miami,0
+1998,1998-09-18,New England Revolution,3,0,Mutiny,0
+1998,1998-09-18,Sporting Kansas City,0,1,FC Dallas,0
+1998,1998-09-19,Los Angeles Galaxy,0,1,Houston Dynamo,0
+1998,1998-09-22,Chicago Fire,3,2,New England Revolution,0
+1998,1998-09-23,Columbus Crew,3,4,Mutiny,0
+1998,1998-09-25,Colorado Rapids,3,1,FC Dallas,0
+1998,1998-09-25,New England Revolution,0,1,New York Red Bulls,1
+1998,1998-09-26,DC United,3,2,Columbus Crew,1
+1998,1998-09-26,Houston Dynamo,2,0,Sporting Kansas City,0
+1998,1998-09-26,Los Angeles Galaxy,1,0,Chicago Fire,0
+1998,1998-09-26,Miami,1,3,Mutiny,0
+1998,1998-09-29,Columbus Crew,5,3,New York Red Bulls,0
+1998,1998-09-29,DC United,2,1,Miami,0
+1998,1998-09-30,Chicago Fire,2,1,Colorado Rapids,1
+1998,1998-09-30,Los Angeles Galaxy,6,1,FC Dallas,0
+1998,1998-10-02,New York Red Bulls,1,2,Columbus Crew,1
+1998,1998-10-03,FC Dallas,2,3,Los Angeles Galaxy,0
+1998,1998-10-03,Miami,0,1,DC United,1
+1998,1998-10-04,Colorado Rapids,0,1,Chicago Fire,0
+1998,1998-10-09,Los Angeles Galaxy,0,1,Chicago Fire,0
+1998,1998-10-10,DC United,2,0,Columbus Crew,0
+1998,1998-10-15,Chicago Fire,2,1,Los Angeles Galaxy,1
+1998,1998-10-17,Columbus Crew,4,2,DC United,0
+1998,1998-10-20,DC United,3,0,Columbus Crew,0
+1998,1998-10-24,Chicago Fire,2,0,DC United,0
+1999,1999-03-19,FC Dallas,4,0,Sporting Kansas City,0
+1999,1999-03-19,Houston Dynamo,1,3,Chicago Fire,0
+1999,1999-03-19,Los Angeles Galaxy,2,1,Colorado Rapids,1
+1999,1999-03-19,Miami,2,3,New York Red Bulls,1
+1999,1999-03-19,Mutiny,2,5,DC United,0
+1999,1999-03-26,Houston Dynamo,3,2,Colorado Rapids,1
+1999,1999-03-26,Sporting Kansas City,0,3,Chicago Fire,0
+1999,1999-03-27,Los Angeles Galaxy,1,0,FC Dallas,1
+1999,1999-03-27,Miami,2,1,New England Revolution,1
+1999,1999-03-27,New York Red Bulls,1,0,Columbus Crew,0
+1999,1999-04-02,Houston Dynamo,2,1,Los Angeles Galaxy,1
+1999,1999-04-02,Miami,1,4,Chicago Fire,0
+1999,1999-04-02,Mutiny,2,3,Columbus Crew,0
+1999,1999-04-02,New York Red Bulls,0,1,DC United,0
+1999,1999-04-02,Sporting Kansas City,0,1,New England Revolution,0
+1999,1999-04-07,Los Angeles Galaxy,1,2,Columbus Crew,1
+1999,1999-04-09,Chicago Fire,0,1,FC Dallas,1
+1999,1999-04-09,Colorado Rapids,4,1,Miami,0
+1999,1999-04-09,New England Revolution,2,3,DC United,1
+1999,1999-04-09,Sporting Kansas City,1,2,Houston Dynamo,1
+1999,1999-04-10,Mutiny,1,2,New York Red Bulls,1
+1999,1999-04-14,Miami,2,1,FC Dallas,1
+1999,1999-04-16,Chicago Fire,1,0,Los Angeles Galaxy,0
+1999,1999-04-16,Colorado Rapids,2,1,Sporting Kansas City,1
+1999,1999-04-16,DC United,1,2,Houston Dynamo,1
+1999,1999-04-16,New England Revolution,0,1,Columbus Crew,1
+1999,1999-04-17,FC Dallas,2,1,Mutiny,0
+1999,1999-04-23,DC United,2,3,New England Revolution,0
+1999,1999-04-23,FC Dallas,2,0,Columbus Crew,0
+1999,1999-04-23,Los Angeles Galaxy,1,0,Houston Dynamo,0
+1999,1999-04-23,Miami,1,0,Sporting Kansas City,0
+1999,1999-04-24,New York Red Bulls,0,1,Mutiny,0
+1999,1999-04-27,Sporting Kansas City,0,1,Columbus Crew,0
+1999,1999-04-29,Houston Dynamo,2,1,FC Dallas,1
+1999,1999-04-30,Chicago Fire,3,2,DC United,0
+1999,1999-04-30,Mutiny,2,1,Miami,0
+1999,1999-04-30,New England Revolution,1,2,Colorado Rapids,0
+1999,1999-04-30,New York Red Bulls,0,1,Los Angeles Galaxy,1
+1999,1999-05-07,DC United,2,1,New York Red Bulls,0
+1999,1999-05-07,FC Dallas,1,2,Colorado Rapids,1
+1999,1999-05-07,Mutiny,2,1,Chicago Fire,1
+1999,1999-05-07,New England Revolution,1,0,Miami,1
+1999,1999-05-07,Sporting Kansas City,2,1,Los Angeles Galaxy,0
+1999,1999-05-08,Houston Dynamo,1,2,Columbus Crew,0
+1999,1999-05-14,Columbus Crew,2,0,New England Revolution,0
+1999,1999-05-14,FC Dallas,2,1,Houston Dynamo,0
+1999,1999-05-14,Los Angeles Galaxy,0,1,Mutiny,1
+1999,1999-05-14,New York Red Bulls,3,2,Miami,0
+1999,1999-05-14,Sporting Kansas City,3,4,DC United,1
+1999,1999-05-15,Chicago Fire,0,1,Colorado Rapids,0
+1999,1999-05-21,Chicago Fire,3,1,Sporting Kansas City,0
+1999,1999-05-21,Colorado Rapids,2,0,New York Red Bulls,0
+1999,1999-05-21,Columbus Crew,0,1,Mutiny,1
+1999,1999-05-21,Houston Dynamo,2,1,FC Dallas,1
+1999,1999-05-21,Miami,1,3,DC United,0
+1999,1999-05-22,Los Angeles Galaxy,1,0,New England Revolution,0
+1999,1999-05-25,FC Dallas,2,1,Miami,0
+1999,1999-05-26,Colorado Rapids,4,2,Houston Dynamo,0
+1999,1999-05-28,Columbus Crew,2,1,Los Angeles Galaxy,1
+1999,1999-05-28,DC United,3,1,Chicago Fire,0
+1999,1999-05-28,Miami,2,1,Mutiny,0
+1999,1999-05-28,New York Red Bulls,3,4,New England Revolution,1
+1999,1999-06-02,Houston Dynamo,4,3,Colorado Rapids,0
+1999,1999-06-04,DC United,1,0,Columbus Crew,0
+1999,1999-06-04,Mutiny,1,0,Miami,0
+1999,1999-06-04,New England Revolution,2,0,Chicago Fire,0
+1999,1999-06-04,New York Red Bulls,2,5,FC Dallas,0
+1999,1999-06-05,Los Angeles Galaxy,1,0,Sporting Kansas City,0
+1999,1999-06-09,DC United,3,1,Miami,0
+1999,1999-06-11,Houston Dynamo,2,1,Mutiny,1
+1999,1999-06-11,Los Angeles Galaxy,2,1,Chicago Fire,0
+1999,1999-06-11,New York Red Bulls,0,1,Colorado Rapids,0
+1999,1999-06-11,Sporting Kansas City,1,0,FC Dallas,0
+1999,1999-06-12,Columbus Crew,1,2,DC United,0
+1999,1999-06-12,New England Revolution,4,3,Miami,1
+1999,1999-06-15,Columbus Crew,2,1,New England Revolution,1
+1999,1999-06-15,FC Dallas,3,0,DC United,0
+1999,1999-06-18,Chicago Fire,2,0,Houston Dynamo,0
+1999,1999-06-18,Colorado Rapids,2,1,FC Dallas,0
+1999,1999-06-18,DC United,1,2,Los Angeles Galaxy,0
+1999,1999-06-18,Mutiny,2,3,New England Revolution,0
+1999,1999-06-19,Sporting Kansas City,6,0,New York Red Bulls,0
+1999,1999-06-25,Colorado Rapids,2,0,Chicago Fire,0
+1999,1999-06-25,Columbus Crew,2,1,New York Red Bulls,0
+1999,1999-06-25,DC United,3,0,Sporting Kansas City,0
+1999,1999-06-25,FC Dallas,2,0,New England Revolution,0
+1999,1999-06-25,Miami,1,2,Houston Dynamo,0
+1999,1999-06-26,Mutiny,2,4,Los Angeles Galaxy,0
+1999,1999-06-29,Columbus Crew,4,3,Houston Dynamo,1
+1999,1999-06-29,New York Red Bulls,2,1,Mutiny,1
+1999,1999-07-01,Chicago Fire,2,1,FC Dallas,1
+1999,1999-07-02,Mutiny,1,2,Sporting Kansas City,1
+1999,1999-07-03,Colorado Rapids,0,3,Columbus Crew,0
+1999,1999-07-03,FC Dallas,1,2,Chicago Fire,0
+1999,1999-07-03,Houston Dynamo,2,1,DC United,1
+1999,1999-07-03,Los Angeles Galaxy,1,2,Miami,0
+1999,1999-07-03,New England Revolution,3,2,New York Red Bulls,0
+1999,1999-07-06,Columbus Crew,1,2,DC United,1
+1999,1999-07-06,Sporting Kansas City,1,2,Colorado Rapids,0
+1999,1999-07-07,Mutiny,2,1,Houston Dynamo,0
+1999,1999-07-09,Chicago Fire,2,0,New York Red Bulls,0
+1999,1999-07-09,DC United,1,2,Colorado Rapids,0
+1999,1999-07-09,FC Dallas,5,0,Sporting Kansas City,0
+1999,1999-07-09,Miami,2,0,Columbus Crew,0
+1999,1999-07-10,New England Revolution,2,5,Los Angeles Galaxy,0
+1999,1999-07-21,Sporting Kansas City,4,3,Mutiny,0
+1999,1999-07-22,Chicago Fire,2,3,Houston Dynamo,1
+1999,1999-07-23,Columbus Crew,4,1,FC Dallas,0
+1999,1999-07-23,New York Red Bulls,0,1,Miami,0
+1999,1999-07-24,Colorado Rapids,2,3,Mutiny,1
+1999,1999-07-24,Los Angeles Galaxy,2,1,Sporting Kansas City,0
+1999,1999-07-24,New England Revolution,0,2,DC United,0
+1999,1999-07-27,Colorado Rapids,1,0,Los Angeles Galaxy,0
+1999,1999-07-28,Miami,3,2,Mutiny,1
+1999,1999-07-30,Chicago Fire,0,1,Los Angeles Galaxy,0
+1999,1999-07-30,FC Dallas,0,2,Colorado Rapids,0
+1999,1999-07-30,Mutiny,4,1,New England Revolution,0
+1999,1999-07-30,Sporting Kansas City,3,2,Houston Dynamo,1
+1999,1999-07-31,Columbus Crew,4,0,Miami,0
+1999,1999-08-03,FC Dallas,2,0,New York Red Bulls,0
+1999,1999-08-04,Sporting Kansas City,1,2,Chicago Fire,0
+1999,1999-08-05,Colorado Rapids,1,0,New England Revolution,1
+1999,1999-08-06,Houston Dynamo,1,4,Los Angeles Galaxy,0
+1999,1999-08-06,Miami,2,0,New York Red Bulls,0
+1999,1999-08-07,Chicago Fire,5,0,Colorado Rapids,0
+1999,1999-08-07,Columbus Crew,2,1,Sporting Kansas City,0
+1999,1999-08-07,DC United,3,2,Mutiny,1
+1999,1999-08-10,New York Red Bulls,1,4,DC United,0
+1999,1999-08-11,New England Revolution,1,2,Houston Dynamo,0
+1999,1999-08-12,Mutiny,0,1,Colorado Rapids,0
+1999,1999-08-13,DC United,2,1,Columbus Crew,0
+1999,1999-08-13,Los Angeles Galaxy,2,0,FC Dallas,0
+1999,1999-08-13,New York Red Bulls,1,2,Sporting Kansas City,0
+1999,1999-08-14,Chicago Fire,1,2,Miami,1
+1999,1999-08-17,Colorado Rapids,0,3,FC Dallas,0
+1999,1999-08-17,New England Revolution,0,1,Mutiny,0
+1999,1999-08-17,New York Red Bulls,2,4,Columbus Crew,0
+1999,1999-08-20,Houston Dynamo,2,1,New England Revolution,0
+1999,1999-08-20,Los Angeles Galaxy,4,1,New York Red Bulls,0
+1999,1999-08-20,Miami,2,3,DC United,1
+1999,1999-08-21,Columbus Crew,1,2,Mutiny,1
+1999,1999-08-21,FC Dallas,4,3,Chicago Fire,1
+1999,1999-08-24,Chicago Fire,2,0,Sporting Kansas City,0
+1999,1999-08-24,DC United,3,1,Miami,0
+1999,1999-08-24,New York Red Bulls,1,2,New England Revolution,1
+1999,1999-08-26,Mutiny,2,1,Columbus Crew,0
+1999,1999-08-27,Chicago Fire,2,1,New England Revolution,0
+1999,1999-08-27,Colorado Rapids,0,1,DC United,0
+1999,1999-08-27,FC Dallas,1,0,Los Angeles Galaxy,0
+1999,1999-08-27,Houston Dynamo,2,1,New York Red Bulls,1
+1999,1999-08-28,Sporting Kansas City,2,0,Miami,0
+1999,1999-08-31,Los Angeles Galaxy,3,1,Houston Dynamo,0
+1999,1999-09-03,Columbus Crew,2,1,Colorado Rapids,0
+1999,1999-09-03,DC United,4,1,FC Dallas,0
+1999,1999-09-03,Houston Dynamo,2,0,Sporting Kansas City,0
+1999,1999-09-03,Miami,1,2,Los Angeles Galaxy,0
+1999,1999-09-03,New England Revolution,1,5,Mutiny,0
+1999,1999-09-03,New York Red Bulls,1,2,Chicago Fire,0
+1999,1999-09-07,New England Revolution,3,2,Sporting Kansas City,0
+1999,1999-09-10,Colorado Rapids,1,0,Sporting Kansas City,1
+1999,1999-09-10,FC Dallas,1,0,Houston Dynamo,0
+1999,1999-09-10,Los Angeles Galaxy,1,0,Chicago Fire,0
+1999,1999-09-10,Miami,2,1,New England Revolution,1
+1999,1999-09-10,Mutiny,1,2,DC United,0
+1999,1999-09-11,Columbus Crew,1,2,New York Red Bulls,0
+1999,1999-09-17,Colorado Rapids,1,0,Los Angeles Galaxy,0
+1999,1999-09-17,DC United,2,1,New York Red Bulls,1
+1999,1999-09-17,New England Revolution,0,1,Columbus Crew,1
+1999,1999-09-17,Sporting Kansas City,1,2,FC Dallas,1
+1999,1999-09-18,Chicago Fire,2,1,Mutiny,1
+1999,1999-09-18,Houston Dynamo,6,1,Miami,0
+1999,1999-09-21,New York Red Bulls,1,2,Houston Dynamo,0
+1999,1999-09-22,Chicago Fire,1,2,Columbus Crew,0
+1999,1999-09-23,New England Revolution,0,1,FC Dallas,0
+1999,1999-09-24,Los Angeles Galaxy,0,2,DC United,0
+1999,1999-09-24,Mutiny,1,2,New York Red Bulls,0
+1999,1999-09-24,Sporting Kansas City,0,1,Colorado Rapids,1
+1999,1999-09-25,Columbus Crew,2,1,Miami,0
+1999,1999-09-25,Houston Dynamo,2,0,Chicago Fire,0
+1999,1999-09-28,Los Angeles Galaxy,4,0,Colorado Rapids,0
+1999,1999-09-30,Colorado Rapids,1,0,Houston Dynamo,1
+1999,1999-10-01,New England Revolution,2,1,New York Red Bulls,0
+1999,1999-10-02,FC Dallas,4,3,Los Angeles Galaxy,0
+1999,1999-10-02,Miami,4,1,Columbus Crew,0
+1999,1999-10-05,Colorado Rapids,0,1,Chicago Fire,0
+1999,1999-10-05,DC United,2,4,Mutiny,0
+1999,1999-10-05,Houston Dynamo,1,0,Sporting Kansas City,0
+1999,1999-10-08,DC United,1,2,New England Revolution,1
+1999,1999-10-08,Miami,2,0,Colorado Rapids,0
+1999,1999-10-08,Sporting Kansas City,0,1,Los Angeles Galaxy,0
+1999,1999-10-09,Columbus Crew,2,3,Chicago Fire,1
+1999,1999-10-09,Mutiny,1,2,FC Dallas,0
+1999,1999-10-15,DC United,2,0,Miami,0
+1999,1999-10-15,FC Dallas,2,1,Chicago Fire,0
+1999,1999-10-16,Columbus Crew,2,0,Mutiny,0
+1999,1999-10-16,Los Angeles Galaxy,3,0,Colorado Rapids,0
+1999,1999-10-21,Mutiny,0,2,Columbus Crew,0
+1999,1999-10-22,Chicago Fire,4,0,FC Dallas,0
+1999,1999-10-23,Colorado Rapids,0,2,Los Angeles Galaxy,0
+1999,1999-10-23,Miami,0,1,DC United,1
+1999,1999-10-26,FC Dallas,3,2,Chicago Fire,0
+1999,1999-10-30,DC United,2,1,Columbus Crew,0
+1999,1999-10-30,Los Angeles Galaxy,2,1,FC Dallas,0
+1999,1999-11-06,Columbus Crew,5,1,DC United,0
+1999,1999-11-06,FC Dallas,3,2,Los Angeles Galaxy,1
+1999,1999-11-10,Los Angeles Galaxy,3,1,FC Dallas,0
+1999,1999-11-12,DC United,4,0,Columbus Crew,0
+1999,1999-11-20,DC United,2,0,Los Angeles Galaxy,0
+2000,2000-03-17,FC Dallas,4,2,Chicago Fire,0
+2000,2000-03-17,Los Angeles Galaxy,2,1,Colorado Rapids,0
+2000,2000-03-17,Miami,1,1,New England Revolution,1
+2000,2000-03-17,Mutiny,5,1,Columbus Crew,0
+2000,2000-03-24,Columbus Crew,2,1,Houston Dynamo,1
+2000,2000-03-24,DC United,0,4,Los Angeles Galaxy,0
+2000,2000-03-24,FC Dallas,0,1,Colorado Rapids,0
+2000,2000-03-24,Mutiny,1,0,New England Revolution,0
+2000,2000-03-24,Sporting Kansas City,4,3,Chicago Fire,0
+2000,2000-03-25,Miami,3,1,New York Red Bulls,0
+2000,2000-03-31,Columbus Crew,0,2,Chicago Fire,0
+2000,2000-03-31,FC Dallas,1,0,Mutiny,0
+2000,2000-03-31,Los Angeles Galaxy,2,2,New England Revolution,1
+2000,2000-03-31,Miami,0,0,Houston Dynamo,1
+2000,2000-03-31,New York Red Bulls,3,2,DC United,0
+2000,2000-03-31,Sporting Kansas City,3,0,Colorado Rapids,0
+2000,2000-04-07,Colorado Rapids,1,0,Mutiny,0
+2000,2000-04-07,Columbus Crew,2,2,Los Angeles Galaxy,1
+2000,2000-04-07,DC United,3,2,Chicago Fire,0
+2000,2000-04-07,FC Dallas,2,1,New England Revolution,0
+2000,2000-04-07,Houston Dynamo,2,0,New York Red Bulls,0
+2000,2000-04-07,Miami,0,0,Sporting Kansas City,1
+2000,2000-04-14,Chicago Fire,1,0,Miami,0
+2000,2000-04-14,Los Angeles Galaxy,2,1,FC Dallas,0
+2000,2000-04-14,Mutiny,4,2,Colorado Rapids,0
+2000,2000-04-14,New England Revolution,2,1,DC United,1
+2000,2000-04-14,New York Red Bulls,0,1,Columbus Crew,0
+2000,2000-04-14,Sporting Kansas City,2,0,Houston Dynamo,0
+2000,2000-04-18,New York Red Bulls,1,2,Sporting Kansas City,0
+2000,2000-04-21,Columbus Crew,2,3,Colorado Rapids,0
+2000,2000-04-21,DC United,2,3,New York Red Bulls,1
+2000,2000-04-21,Houston Dynamo,5,0,FC Dallas,0
+2000,2000-04-21,Los Angeles Galaxy,2,0,Miami,0
+2000,2000-04-21,New England Revolution,1,1,Chicago Fire,1
+2000,2000-04-21,Sporting Kansas City,1,0,Mutiny,0
+2000,2000-04-25,Mutiny,4,0,Houston Dynamo,0
+2000,2000-04-27,Chicago Fire,5,1,Mutiny,0
+2000,2000-04-28,Colorado Rapids,0,5,Sporting Kansas City,0
+2000,2000-04-28,FC Dallas,2,1,Columbus Crew,0
+2000,2000-04-28,Houston Dynamo,2,2,DC United,1
+2000,2000-04-28,New England Revolution,1,1,Miami,1
+2000,2000-04-28,New York Red Bulls,0,1,Los Angeles Galaxy,0
+2000,2000-05-02,Chicago Fire,1,2,Colorado Rapids,0
+2000,2000-05-02,DC United,1,2,Columbus Crew,0
+2000,2000-05-05,Colorado Rapids,2,5,DC United,0
+2000,2000-05-05,Columbus Crew,0,2,New York Red Bulls,0
+2000,2000-05-05,Los Angeles Galaxy,0,0,Sporting Kansas City,1
+2000,2000-05-05,Miami,0,3,Chicago Fire,0
+2000,2000-05-05,Mutiny,3,1,FC Dallas,0
+2000,2000-05-05,New England Revolution,2,1,Houston Dynamo,0
+2000,2000-05-09,Miami,1,0,DC United,1
+2000,2000-05-12,Chicago Fire,4,1,Houston Dynamo,0
+2000,2000-05-12,Colorado Rapids,1,2,Miami,0
+2000,2000-05-12,DC United,1,3,New England Revolution,0
+2000,2000-05-12,FC Dallas,1,1,Los Angeles Galaxy,1
+2000,2000-05-12,Mutiny,3,1,Columbus Crew,0
+2000,2000-05-12,Sporting Kansas City,2,0,New York Red Bulls,0
+2000,2000-05-16,Houston Dynamo,0,0,Los Angeles Galaxy,1
+2000,2000-05-16,New England Revolution,3,4,Colorado Rapids,0
+2000,2000-05-16,Sporting Kansas City,2,0,DC United,0
+2000,2000-05-19,Chicago Fire,0,1,New England Revolution,0
+2000,2000-05-19,Columbus Crew,2,1,FC Dallas,0
+2000,2000-05-19,Los Angeles Galaxy,2,1,DC United,0
+2000,2000-05-19,Miami,2,0,Colorado Rapids,0
+2000,2000-05-19,New York Red Bulls,3,2,Mutiny,1
+2000,2000-05-19,Sporting Kansas City,2,0,Houston Dynamo,0
+2000,2000-05-23,Chicago Fire,4,3,FC Dallas,0
+2000,2000-05-23,New England Revolution,2,1,Los Angeles Galaxy,0
+2000,2000-05-26,DC United,3,2,FC Dallas,0
+2000,2000-05-26,Los Angeles Galaxy,1,1,Houston Dynamo,1
+2000,2000-05-26,Miami,2,4,Columbus Crew,0
+2000,2000-05-26,Mutiny,1,2,Sporting Kansas City,0
+2000,2000-05-26,New York Red Bulls,4,1,Chicago Fire,0
+2000,2000-05-28,Colorado Rapids,2,1,New England Revolution,0
+2000,2000-06-02,Columbus Crew,1,1,DC United,1
+2000,2000-06-02,FC Dallas,2,3,Mutiny,0
+2000,2000-06-02,Houston Dynamo,4,2,Colorado Rapids,0
+2000,2000-06-02,Los Angeles Galaxy,0,2,New York Red Bulls,0
+2000,2000-06-02,New England Revolution,2,0,Miami,0
+2000,2000-06-03,Chicago Fire,3,2,Sporting Kansas City,0
+2000,2000-06-06,Chicago Fire,2,1,Miami,0
+2000,2000-06-06,FC Dallas,3,2,Columbus Crew,0
+2000,2000-06-08,New York Red Bulls,0,3,Mutiny,0
+2000,2000-06-09,Colorado Rapids,1,0,Los Angeles Galaxy,1
+2000,2000-06-09,Columbus Crew,1,1,FC Dallas,1
+2000,2000-06-09,DC United,0,0,Sporting Kansas City,1
+2000,2000-06-09,Miami,4,2,Chicago Fire,0
+2000,2000-06-09,New England Revolution,3,0,Houston Dynamo,0
+2000,2000-06-16,Chicago Fire,3,2,DC United,0
+2000,2000-06-16,Colorado Rapids,0,0,Columbus Crew,1
+2000,2000-06-16,FC Dallas,4,1,Sporting Kansas City,0
+2000,2000-06-16,Houston Dynamo,3,1,Miami,0
+2000,2000-06-16,Los Angeles Galaxy,2,1,Mutiny,0
+2000,2000-06-16,New York Red Bulls,4,2,New England Revolution,0
+2000,2000-06-20,Houston Dynamo,2,2,New England Revolution,1
+2000,2000-06-20,Los Angeles Galaxy,1,1,Chicago Fire,1
+2000,2000-06-20,Mutiny,1,4,Miami,0
+2000,2000-06-20,New York Red Bulls,2,2,DC United,1
+2000,2000-06-20,Sporting Kansas City,0,0,FC Dallas,1
+2000,2000-06-23,Colorado Rapids,1,3,New York Red Bulls,0
+2000,2000-06-23,Columbus Crew,3,1,New England Revolution,0
+2000,2000-06-23,DC United,2,0,FC Dallas,0
+2000,2000-06-23,Houston Dynamo,1,1,Chicago Fire,1
+2000,2000-06-23,Miami,2,3,Mutiny,0
+2000,2000-06-23,Sporting Kansas City,2,0,Los Angeles Galaxy,0
+2000,2000-06-27,Colorado Rapids,1,0,FC Dallas,0
+2000,2000-06-27,Columbus Crew,1,2,Mutiny,0
+2000,2000-06-27,DC United,1,2,Los Angeles Galaxy,0
+2000,2000-06-27,New York Red Bulls,0,0,Houston Dynamo,1
+2000,2000-06-30,Columbus Crew,2,1,Houston Dynamo,0
+2000,2000-06-30,DC United,1,1,Colorado Rapids,1
+2000,2000-06-30,FC Dallas,4,2,Los Angeles Galaxy,0
+2000,2000-06-30,Mutiny,0,2,New York Red Bulls,0
+2000,2000-07-03,Colorado Rapids,2,1,Chicago Fire,1
+2000,2000-07-03,Houston Dynamo,0,0,Sporting Kansas City,1
+2000,2000-07-03,Los Angeles Galaxy,1,0,Columbus Crew,0
+2000,2000-07-03,Miami,2,1,New England Revolution,0
+2000,2000-07-03,Mutiny,3,0,DC United,0
+2000,2000-07-04,New York Red Bulls,2,1,FC Dallas,0
+2000,2000-07-07,Chicago Fire,3,1,Columbus Crew,0
+2000,2000-07-07,Colorado Rapids,0,1,Houston Dynamo,0
+2000,2000-07-07,FC Dallas,3,0,DC United,0
+2000,2000-07-07,Miami,3,5,Los Angeles Galaxy,0
+2000,2000-07-07,Sporting Kansas City,0,1,New York Red Bulls,0
+2000,2000-07-11,Columbus Crew,4,1,New England Revolution,0
+2000,2000-07-11,DC United,2,2,Mutiny,1
+2000,2000-07-14,Chicago Fire,0,0,Mutiny,1
+2000,2000-07-14,Columbus Crew,2,0,Sporting Kansas City,0
+2000,2000-07-14,Houston Dynamo,1,2,Colorado Rapids,0
+2000,2000-07-14,Los Angeles Galaxy,1,2,DC United,0
+2000,2000-07-14,Miami,0,3,FC Dallas,0
+2000,2000-07-14,New England Revolution,0,2,New York Red Bulls,0
+2000,2000-07-18,FC Dallas,1,1,Miami,1
+2000,2000-07-18,Sporting Kansas City,0,1,New England Revolution,0
+2000,2000-07-20,Colorado Rapids,1,1,Chicago Fire,1
+2000,2000-07-21,Houston Dynamo,1,2,New England Revolution,0
+2000,2000-07-21,Mutiny,2,0,Los Angeles Galaxy,0
+2000,2000-07-21,New York Red Bulls,4,2,Miami,0
+2000,2000-07-21,Sporting Kansas City,3,1,Columbus Crew,0
+2000,2000-08-01,DC United,3,2,New York Red Bulls,1
+2000,2000-08-01,Houston Dynamo,1,2,Columbus Crew,0
+2000,2000-08-01,Mutiny,0,1,Chicago Fire,0
+2000,2000-08-01,New England Revolution,1,2,FC Dallas,0
+2000,2000-08-01,Sporting Kansas City,3,1,Colorado Rapids,0
+2000,2000-08-04,Colorado Rapids,2,0,Houston Dynamo,0
+2000,2000-08-04,DC United,1,3,Miami,0
+2000,2000-08-04,New England Revolution,1,1,Columbus Crew,1
+2000,2000-08-04,Sporting Kansas City,1,5,Los Angeles Galaxy,0
+2000,2000-08-05,Chicago Fire,3,1,New York Red Bulls,0
+2000,2000-08-05,Mutiny,2,1,FC Dallas,0
+2000,2000-08-11,FC Dallas,1,0,DC United,0
+2000,2000-08-11,Houston Dynamo,1,2,Mutiny,0
+2000,2000-08-11,Los Angeles Galaxy,1,1,Sporting Kansas City,1
+2000,2000-08-11,Miami,4,1,Colorado Rapids,0
+2000,2000-08-11,New York Red Bulls,2,1,New England Revolution,1
+2000,2000-08-15,Columbus Crew,2,0,Miami,0
+2000,2000-08-15,FC Dallas,3,0,Chicago Fire,0
+2000,2000-08-15,Houston Dynamo,0,3,Sporting Kansas City,0
+2000,2000-08-15,Los Angeles Galaxy,1,0,Colorado Rapids,1
+2000,2000-08-15,Mutiny,4,3,New York Red Bulls,1
+2000,2000-08-18,Chicago Fire,2,1,Los Angeles Galaxy,0
+2000,2000-08-18,DC United,0,1,Houston Dynamo,0
+2000,2000-08-18,New England Revolution,2,1,Mutiny,0
+2000,2000-08-19,New York Red Bulls,5,3,Colorado Rapids,0
+2000,2000-08-19,Sporting Kansas City,1,2,Miami,0
+2000,2000-08-22,New York Red Bulls,0,0,Sporting Kansas City,1
+2000,2000-08-25,Colorado Rapids,1,1,Sporting Kansas City,1
+2000,2000-08-25,DC United,2,1,Miami,1
+2000,2000-08-25,FC Dallas,4,6,New York Red Bulls,0
+2000,2000-08-25,Houston Dynamo,0,3,Los Angeles Galaxy,0
+2000,2000-08-25,Mutiny,3,3,Chicago Fire,1
+2000,2000-08-25,New England Revolution,2,1,Columbus Crew,0
+2000,2000-08-29,Chicago Fire,4,0,FC Dallas,0
+2000,2000-08-29,Colorado Rapids,3,1,Miami,0
+2000,2000-08-29,Columbus Crew,3,4,Mutiny,0
+2000,2000-08-29,Los Angeles Galaxy,2,1,Houston Dynamo,0
+2000,2000-08-29,New England Revolution,1,0,DC United,0
+2000,2000-09-01,Houston Dynamo,3,0,Columbus Crew,0
+2000,2000-09-01,Miami,4,1,New York Red Bulls,0
+2000,2000-09-01,Sporting Kansas City,1,0,Mutiny,0
+2000,2000-09-02,Chicago Fire,2,1,Colorado Rapids,0
+2000,2000-09-02,DC United,2,0,New England Revolution,0
+2000,2000-09-04,New York Red Bulls,2,1,Miami,0
+2000,2000-09-05,Chicago Fire,3,1,Columbus Crew,0
+2000,2000-09-05,Los Angeles Galaxy,0,1,FC Dallas,0
+2000,2000-09-05,New England Revolution,0,1,Sporting Kansas City,0
+2000,2000-09-07,Colorado Rapids,1,0,Los Angeles Galaxy,1
+2000,2000-09-08,Columbus Crew,2,3,Chicago Fire,0
+2000,2000-09-08,DC United,2,6,Miami,0
+2000,2000-09-08,FC Dallas,2,1,Houston Dynamo,0
+2000,2000-09-08,Mutiny,2,2,Sporting Kansas City,1
+2000,2000-09-08,New England Revolution,4,3,New York Red Bulls,0
+2000,2000-09-13,Mutiny,0,1,Los Angeles Galaxy,0
+2000,2000-09-14,Chicago Fire,2,1,New England Revolution,0
+2000,2000-09-14,New York Red Bulls,2,1,FC Dallas,1
+2000,2000-09-15,Sporting Kansas City,1,0,Colorado Rapids,0
+2000,2000-09-18,New England Revolution,2,1,Chicago Fire,0
+2000,2000-09-19,Colorado Rapids,0,0,Sporting Kansas City,0
+2000,2000-09-19,FC Dallas,1,2,New York Red Bulls,0
+2000,2000-09-19,Los Angeles Galaxy,5,2,Mutiny,0
+2000,2000-09-21,Chicago Fire,6,0,New England Revolution,0
+2000,2000-09-23,Sporting Kansas City,3,2,Colorado Rapids,0
+2000,2000-09-25,Chicago Fire,3,0,New York Red Bulls,0
+2000,2000-09-28,Sporting Kansas City,0,0,Los Angeles Galaxy,0
+2000,2000-09-29,New York Red Bulls,2,0,Chicago Fire,0
+2000,2000-10-02,Los Angeles Galaxy,2,1,Sporting Kansas City,1
+2000,2000-10-05,Chicago Fire,3,2,New York Red Bulls,0
+2000,2000-10-05,Sporting Kansas City,1,0,Los Angeles Galaxy,0
+2000,2000-10-14,Chicago Fire,0,1,Sporting Kansas City,0
+2001,2001-04-06,Columbus Crew,1,1,Chicago Fire,0
+2001,2001-04-06,DC United,3,2,Sporting Kansas City,0
+2001,2001-04-06,FC Dallas,2,4,Mutiny,0
+2001,2001-04-06,Los Angeles Galaxy,2,3,Houston Dynamo,0
+2001,2001-04-06,Miami,2,1,Colorado Rapids,0
+2001,2001-04-06,New York Red Bulls,2,1,New England Revolution,0
+2001,2001-04-13,Chicago Fire,2,0,DC United,0
+2001,2001-04-13,Colorado Rapids,1,1,New York Red Bulls,0
+2001,2001-04-13,Houston Dynamo,0,1,FC Dallas,0
+2001,2001-04-13,Mutiny,1,2,Columbus Crew,0
+2001,2001-04-13,New England Revolution,0,1,Miami,0
+2001,2001-04-13,Sporting Kansas City,2,1,Los Angeles Galaxy,0
+2001,2001-04-17,Sporting Kansas City,2,1,Miami,0
+2001,2001-04-20,Columbus Crew,0,3,Sporting Kansas City,0
+2001,2001-04-20,DC United,2,1,New England Revolution,0
+2001,2001-04-20,FC Dallas,3,2,Chicago Fire,1
+2001,2001-04-20,Los Angeles Galaxy,1,0,Colorado Rapids,0
+2001,2001-04-20,Miami,2,1,Houston Dynamo,0
+2001,2001-04-20,New York Red Bulls,1,3,Mutiny,0
+2001,2001-04-27,Colorado Rapids,2,3,Los Angeles Galaxy,0
+2001,2001-04-27,Miami,1,0,New England Revolution,0
+2001,2001-04-27,Mutiny,0,1,Chicago Fire,0
+2001,2001-04-27,New York Red Bulls,3,2,FC Dallas,0
+2001,2001-04-27,Sporting Kansas City,0,0,Houston Dynamo,0
+2001,2001-05-01,New York Red Bulls,4,1,Sporting Kansas City,0
+2001,2001-05-04,Chicago Fire,2,0,Mutiny,0
+2001,2001-05-04,Columbus Crew,0,0,Miami,0
+2001,2001-05-04,FC Dallas,0,1,Colorado Rapids,0
+2001,2001-05-04,Houston Dynamo,3,2,New England Revolution,0
+2001,2001-05-04,Los Angeles Galaxy,2,1,Sporting Kansas City,1
+2001,2001-05-04,New York Red Bulls,3,2,DC United,0
+2001,2001-05-08,DC United,5,0,New England Revolution,0
+2001,2001-05-08,Mutiny,4,4,Los Angeles Galaxy,0
+2001,2001-05-11,Colorado Rapids,2,1,Mutiny,0
+2001,2001-05-11,DC United,2,3,Houston Dynamo,0
+2001,2001-05-11,FC Dallas,4,0,Columbus Crew,0
+2001,2001-05-11,New England Revolution,2,1,Chicago Fire,1
+2001,2001-05-11,New York Red Bulls,2,0,Los Angeles Galaxy,0
+2001,2001-05-15,New England Revolution,2,1,Columbus Crew,0
+2001,2001-05-15,New York Red Bulls,1,0,Colorado Rapids,0
+2001,2001-05-18,Chicago Fire,2,0,Sporting Kansas City,0
+2001,2001-05-18,Colorado Rapids,0,1,New England Revolution,0
+2001,2001-05-18,Columbus Crew,2,1,DC United,1
+2001,2001-05-18,Houston Dynamo,2,0,New York Red Bulls,0
+2001,2001-05-18,Los Angeles Galaxy,0,0,FC Dallas,0
+2001,2001-05-18,Miami,3,1,Mutiny,0
+2001,2001-05-22,Colorado Rapids,0,1,Miami,0
+2001,2001-05-22,FC Dallas,0,2,Houston Dynamo,0
+2001,2001-05-23,Sporting Kansas City,1,0,New York Red Bulls,0
+2001,2001-05-25,Chicago Fire,1,1,Houston Dynamo,0
+2001,2001-05-25,Columbus Crew,3,3,Colorado Rapids,0
+2001,2001-05-25,Los Angeles Galaxy,2,0,New England Revolution,0
+2001,2001-05-25,Mutiny,0,4,Miami,0
+2001,2001-05-29,Chicago Fire,3,4,Los Angeles Galaxy,0
+2001,2001-05-29,Houston Dynamo,1,1,Colorado Rapids,0
+2001,2001-05-29,Miami,2,1,DC United,0
+2001,2001-06-01,Colorado Rapids,1,2,Houston Dynamo,0
+2001,2001-06-01,Columbus Crew,1,1,Los Angeles Galaxy,0
+2001,2001-06-01,DC United,1,2,Chicago Fire,0
+2001,2001-06-01,FC Dallas,2,6,Miami,0
+2001,2001-06-01,Mutiny,1,2,Sporting Kansas City,0
+2001,2001-06-02,New England Revolution,1,1,New York Red Bulls,0
+2001,2001-06-05,Mutiny,0,1,FC Dallas,0
+2001,2001-06-08,Chicago Fire,1,0,Columbus Crew,0
+2001,2001-06-08,FC Dallas,3,0,DC United,0
+2001,2001-06-08,Houston Dynamo,3,1,Los Angeles Galaxy,0
+2001,2001-06-08,Miami,5,1,Sporting Kansas City,0
+2001,2001-06-08,New England Revolution,3,0,Mutiny,0
+2001,2001-06-12,DC United,2,1,New York Red Bulls,0
+2001,2001-06-12,Los Angeles Galaxy,4,0,Sporting Kansas City,0
+2001,2001-06-15,Colorado Rapids,3,6,FC Dallas,0
+2001,2001-06-15,Columbus Crew,6,1,Mutiny,0
+2001,2001-06-15,Miami,3,3,Los Angeles Galaxy,0
+2001,2001-06-15,New York Red Bulls,0,0,Houston Dynamo,0
+2001,2001-06-15,Sporting Kansas City,0,3,DC United,0
+2001,2001-06-19,New England Revolution,3,3,Colorado Rapids,0
+2001,2001-06-22,Chicago Fire,1,1,New England Revolution,0
+2001,2001-06-22,FC Dallas,1,2,Columbus Crew,0
+2001,2001-06-22,Houston Dynamo,2,0,Sporting Kansas City,0
+2001,2001-06-22,Los Angeles Galaxy,2,0,New York Red Bulls,0
+2001,2001-06-22,Mutiny,3,2,DC United,0
+2001,2001-06-29,Chicago Fire,3,1,New York Red Bulls,0
+2001,2001-06-29,DC United,1,1,Colorado Rapids,0
+2001,2001-06-29,FC Dallas,0,0,Los Angeles Galaxy,0
+2001,2001-06-29,Miami,4,3,Columbus Crew,0
+2001,2001-06-29,Sporting Kansas City,3,0,Mutiny,0
+2001,2001-07-03,Colorado Rapids,3,1,DC United,0
+2001,2001-07-03,FC Dallas,1,1,New England Revolution,0
+2001,2001-07-03,Houston Dynamo,1,1,Miami,0
+2001,2001-07-03,Los Angeles Galaxy,0,2,Columbus Crew,0
+2001,2001-07-03,Mutiny,1,2,New York Red Bulls,0
+2001,2001-07-03,Sporting Kansas City,0,7,Chicago Fire,0
+2001,2001-07-06,Colorado Rapids,3,1,Houston Dynamo,0
+2001,2001-07-06,Columbus Crew,2,2,FC Dallas,0
+2001,2001-07-06,DC United,0,3,Los Angeles Galaxy,0
+2001,2001-07-06,Miami,0,3,New York Red Bulls,0
+2001,2001-07-06,Mutiny,2,3,Chicago Fire,0
+2001,2001-07-06,New England Revolution,1,2,Sporting Kansas City,0
+2001,2001-07-13,Chicago Fire,1,0,Colorado Rapids,0
+2001,2001-07-13,Houston Dynamo,2,1,Mutiny,0
+2001,2001-07-13,Los Angeles Galaxy,3,0,Miami,0
+2001,2001-07-13,New England Revolution,1,3,DC United,0
+2001,2001-07-13,Sporting Kansas City,3,2,FC Dallas,0
+2001,2001-07-16,New England Revolution,3,2,Los Angeles Galaxy,0
+2001,2001-07-17,Colorado Rapids,0,0,Sporting Kansas City,0
+2001,2001-07-17,Columbus Crew,2,1,New York Red Bulls,0
+2001,2001-07-17,FC Dallas,3,0,Mutiny,0
+2001,2001-07-17,Houston Dynamo,4,0,DC United,0
+2001,2001-07-17,Miami,2,1,Chicago Fire,0
+2001,2001-07-20,Chicago Fire,2,1,FC Dallas,1
+2001,2001-07-20,Columbus Crew,2,1,Houston Dynamo,0
+2001,2001-07-20,Miami,1,1,New England Revolution,0
+2001,2001-07-20,Mutiny,1,2,Colorado Rapids,0
+2001,2001-07-20,New York Red Bulls,2,1,DC United,0
+2001,2001-07-28,Sporting Kansas City,2,0,New England Revolution,0
+2001,2001-07-31,Columbus Crew,3,0,Chicago Fire,0
+2001,2001-07-31,DC United,2,2,Miami,0
+2001,2001-08-03,Colorado Rapids,1,1,Chicago Fire,0
+2001,2001-08-03,Mutiny,2,0,Houston Dynamo,0
+2001,2001-08-03,New England Revolution,5,1,FC Dallas,0
+2001,2001-08-03,New York Red Bulls,2,1,Miami,0
+2001,2001-08-03,Sporting Kansas City,1,3,Columbus Crew,0
+2001,2001-08-07,New England Revolution,1,5,Houston Dynamo,0
+2001,2001-08-10,Chicago Fire,3,1,Mutiny,0
+2001,2001-08-10,FC Dallas,3,0,New York Red Bulls,0
+2001,2001-08-10,Houston Dynamo,2,2,Columbus Crew,0
+2001,2001-08-10,Los Angeles Galaxy,1,0,DC United,0
+2001,2001-08-10,New England Revolution,1,4,Miami,0
+2001,2001-08-11,Colorado Rapids,2,2,Sporting Kansas City,0
+2001,2001-08-14,Chicago Fire,1,2,Miami,0
+2001,2001-08-14,Columbus Crew,3,0,FC Dallas,0
+2001,2001-08-14,DC United,1,2,New York Red Bulls,0
+2001,2001-08-14,Sporting Kansas City,1,2,Los Angeles Galaxy,1
+2001,2001-08-17,Houston Dynamo,0,1,Chicago Fire,0
+2001,2001-08-17,Los Angeles Galaxy,5,1,Mutiny,0
+2001,2001-08-17,Miami,4,2,FC Dallas,0
+2001,2001-08-17,New England Revolution,2,1,DC United,0
+2001,2001-08-18,New York Red Bulls,0,1,Columbus Crew,0
+2001,2001-08-18,Sporting Kansas City,3,2,Colorado Rapids,0
+2001,2001-08-24,DC United,2,1,Columbus Crew,0
+2001,2001-08-24,FC Dallas,3,0,Sporting Kansas City,0
+2001,2001-08-24,Houston Dynamo,5,2,Colorado Rapids,0
+2001,2001-08-24,Los Angeles Galaxy,1,3,Chicago Fire,0
+2001,2001-08-24,Miami,2,3,New York Red Bulls,0
+2001,2001-08-25,Mutiny,0,0,New England Revolution,0
+2001,2001-08-28,Chicago Fire,2,1,Columbus Crew,0
+2001,2001-08-28,Mutiny,2,3,FC Dallas,1
+2001,2001-08-31,Columbus Crew,4,1,New England Revolution,0
+2001,2001-08-31,DC United,5,1,Mutiny,0
+2001,2001-08-31,Houston Dynamo,3,0,Sporting Kansas City,0
+2001,2001-08-31,Los Angeles Galaxy,3,2,Colorado Rapids,1
+2001,2001-08-31,New York Red Bulls,0,1,Chicago Fire,0
+2001,2001-09-06,New York Red Bulls,3,1,New England Revolution,0
+2001,2001-09-07,Chicago Fire,2,2,FC Dallas,0
+2001,2001-09-07,Colorado Rapids,0,2,Los Angeles Galaxy,0
+2001,2001-09-07,Miami,3,1,DC United,0
+2001,2001-09-07,Sporting Kansas City,1,0,Houston Dynamo,0
+2001,2001-09-08,Mutiny,1,2,Columbus Crew,0
+2001,2001-09-20,Chicago Fire,2,0,FC Dallas,0
+2001,2001-09-22,Columbus Crew,1,3,Houston Dynamo,0
+2001,2001-09-22,Miami,2,0,Sporting Kansas City,0
+2001,2001-09-23,FC Dallas,1,1,Chicago Fire,0
+2001,2001-09-23,Los Angeles Galaxy,1,1,New York Red Bulls,0
+2001,2001-09-26,Houston Dynamo,3,0,Columbus Crew,0
+2001,2001-09-26,New York Red Bulls,4,1,Los Angeles Galaxy,0
+2001,2001-09-26,Sporting Kansas City,3,0,Miami,0
+2001,2001-09-29,Chicago Fire,2,0,FC Dallas,0
+2001,2001-09-29,Los Angeles Galaxy,3,2,New York Red Bulls,0
+2001,2001-09-29,Miami,2,1,Sporting Kansas City,0
+2001,2001-10-10,Chicago Fire,1,1,Los Angeles Galaxy,0
+2001,2001-10-10,Miami,1,0,Houston Dynamo,0
+2001,2001-10-13,Los Angeles Galaxy,1,0,Chicago Fire,1
+2001,2001-10-14,Houston Dynamo,4,0,Miami,0
+2001,2001-10-17,Chicago Fire,1,2,Los Angeles Galaxy,1
+2001,2001-10-17,Miami,0,1,Houston Dynamo,1
+2001,2001-10-21,Los Angeles Galaxy,1,2,Houston Dynamo,1
+2002,2002-03-23,FC Dallas,0,2,Houston Dynamo,0
+2002,2002-03-23,Los Angeles Galaxy,2,1,DC United,1
+2002,2002-03-23,New York Red Bulls,3,1,New England Revolution,0
+2002,2002-03-23,Sporting Kansas City,1,1,Colorado Rapids,0
+2002,2002-03-23,Columbus Crew,0,2,Chicago Fire,0
+2002,2002-03-27,New York Red Bulls,0,1,Columbus Crew,0
+2002,2002-03-30,Colorado Rapids,1,0,Houston Dynamo,0
+2002,2002-03-30,DC United,2,0,Chicago Fire,0
+2002,2002-04-03,Colorado Rapids,2,0,DC United,0
+2002,2002-04-06,Columbus Crew,1,2,New York Red Bulls,1
+2002,2002-04-06,FC Dallas,2,1,DC United,0
+2002,2002-04-06,Los Angeles Galaxy,2,1,Chicago Fire,1
+2002,2002-04-06,Houston Dynamo,2,1,New England Revolution,0
+2002,2002-04-13,Colorado Rapids,1,2,New York Red Bulls,0
+2002,2002-04-13,Los Angeles Galaxy,1,1,FC Dallas,0
+2002,2002-04-13,Sporting Kansas City,2,0,Houston Dynamo,0
+2002,2002-04-20,DC United,2,1,Sporting Kansas City,1
+2002,2002-04-20,FC Dallas,1,1,Los Angeles Galaxy,0
+2002,2002-04-20,Houston Dynamo,2,0,Colorado Rapids,0
+2002,2002-04-20,New York Red Bulls,0,2,Chicago Fire,0
+2002,2002-04-20,Columbus Crew,0,2,New England Revolution,0
+2002,2002-04-27,Chicago Fire,2,2,New England Revolution,0
+2002,2002-04-27,Columbus Crew,1,0,DC United,0
+2002,2002-04-27,FC Dallas,1,1,Sporting Kansas City,0
+2002,2002-04-27,New York Red Bulls,1,1,Houston Dynamo,0
+2002,2002-04-27,Los Angeles Galaxy,0,1,Colorado Rapids,1
+2002,2002-05-04,DC United,0,3,Chicago Fire,0
+2002,2002-05-04,New York Red Bulls,1,2,FC Dallas,0
+2002,2002-05-04,Sporting Kansas City,1,2,Los Angeles Galaxy,1
+2002,2002-05-04,Houston Dynamo,3,2,Columbus Crew,0
+2002,2002-05-11,Colorado Rapids,2,0,Sporting Kansas City,0
+2002,2002-05-11,Houston Dynamo,2,1,New York Red Bulls,0
+2002,2002-05-11,New England Revolution,2,0,FC Dallas,0
+2002,2002-05-11,Chicago Fire,0,1,Los Angeles Galaxy,0
+2002,2002-05-12,DC United,1,1,Columbus Crew,0
+2002,2002-05-18,Columbus Crew,2,0,Houston Dynamo,0
+2002,2002-05-18,DC United,4,2,New York Red Bulls,0
+2002,2002-05-18,Sporting Kansas City,2,1,Los Angeles Galaxy,0
+2002,2002-05-18,FC Dallas,3,1,Colorado Rapids,0
+2002,2002-05-19,New England Revolution,1,3,Chicago Fire,0
+2002,2002-05-22,Colorado Rapids,5,2,New England Revolution,0
+2002,2002-05-25,Columbus Crew,1,1,FC Dallas,0
+2002,2002-05-25,New England Revolution,3,2,Los Angeles Galaxy,0
+2002,2002-05-25,New York Red Bulls,1,1,Sporting Kansas City,0
+2002,2002-05-26,Chicago Fire,1,1,Houston Dynamo,0
+2002,2002-06-01,Colorado Rapids,3,2,Los Angeles Galaxy,0
+2002,2002-06-01,Sporting Kansas City,2,2,FC Dallas,0
+2002,2002-06-01,New England Revolution,0,2,Houston Dynamo,0
+2002,2002-06-02,Chicago Fire,5,4,Columbus Crew,0
+2002,2002-06-08,DC United,3,2,New England Revolution,0
+2002,2002-06-08,FC Dallas,4,1,Colorado Rapids,0
+2002,2002-06-08,Houston Dynamo,3,0,Sporting Kansas City,0
+2002,2002-06-08,Los Angeles Galaxy,1,0,Chicago Fire,0
+2002,2002-06-12,New England Revolution,1,2,Columbus Crew,1
+2002,2002-06-15,Chicago Fire,1,3,FC Dallas,0
+2002,2002-06-15,Colorado Rapids,1,2,New England Revolution,0
+2002,2002-06-15,Columbus Crew,2,1,Houston Dynamo,0
+2002,2002-06-15,Sporting Kansas City,2,0,DC United,0
+2002,2002-06-15,New York Red Bulls,5,0,Los Angeles Galaxy,0
+2002,2002-06-19,Columbus Crew,1,1,Sporting Kansas City,0
+2002,2002-06-19,DC United,2,0,Colorado Rapids,0
+2002,2002-06-22,Houston Dynamo,4,0,Colorado Rapids,0
+2002,2002-06-22,Los Angeles Galaxy,3,0,FC Dallas,0
+2002,2002-06-22,Sporting Kansas City,3,2,New England Revolution,0
+2002,2002-06-22,Chicago Fire,0,1,New York Red Bulls,0
+2002,2002-06-26,New York Red Bulls,0,1,Colorado Rapids,0
+2002,2002-06-29,FC Dallas,1,0,Columbus Crew,1
+2002,2002-06-29,Houston Dynamo,2,1,Sporting Kansas City,0
+2002,2002-06-29,New England Revolution,0,2,New York Red Bulls,0
+2002,2002-06-29,DC United,1,0,Los Angeles Galaxy,1
+2002,2002-07-04,Colorado Rapids,3,2,Chicago Fire,0
+2002,2002-07-04,FC Dallas,2,0,New York Red Bulls,0
+2002,2002-07-04,Los Angeles Galaxy,2,1,Houston Dynamo,0
+2002,2002-07-04,New England Revolution,4,1,Columbus Crew,0
+2002,2002-07-04,Sporting Kansas City,2,1,DC United,0
+2002,2002-07-06,Columbus Crew,2,3,New York Red Bulls,0
+2002,2002-07-06,New England Revolution,2,0,DC United,0
+2002,2002-07-06,Sporting Kansas City,1,1,FC Dallas,0
+2002,2002-07-07,Houston Dynamo,1,0,Los Angeles Galaxy,0
+2002,2002-07-07,Chicago Fire,2,1,Colorado Rapids,1
+2002,2002-07-13,Colorado Rapids,1,3,Los Angeles Galaxy,0
+2002,2002-07-13,DC United,1,3,Columbus Crew,0
+2002,2002-07-13,FC Dallas,2,1,Houston Dynamo,0
+2002,2002-07-13,New England Revolution,2,4,Sporting Kansas City,0
+2002,2002-07-13,New York Red Bulls,2,3,Chicago Fire,1
+2002,2002-07-20,Chicago Fire,0,0,DC United,0
+2002,2002-07-20,Columbus Crew,1,1,Colorado Rapids,0
+2002,2002-07-20,Houston Dynamo,4,0,FC Dallas,0
+2002,2002-07-20,Los Angeles Galaxy,2,2,Sporting Kansas City,0
+2002,2002-07-20,New York Red Bulls,4,3,New England Revolution,0
+2002,2002-07-24,Columbus Crew,1,0,DC United,0
+2002,2002-07-24,Houston Dynamo,1,0,Chicago Fire,0
+2002,2002-07-24,New England Revolution,2,3,Colorado Rapids,0
+2002,2002-07-24,Sporting Kansas City,1,3,New York Red Bulls,0
+2002,2002-07-27,Colorado Rapids,2,2,FC Dallas,0
+2002,2002-07-27,DC United,0,1,New England Revolution,0
+2002,2002-07-27,Los Angeles Galaxy,2,1,Columbus Crew,0
+2002,2002-07-27,Sporting Kansas City,2,1,Houston Dynamo,0
+2002,2002-07-27,Chicago Fire,3,0,New York Red Bulls,0
+2002,2002-07-31,Chicago Fire,0,0,DC United,0
+2002,2002-07-31,FC Dallas,0,1,Sporting Kansas City,0
+2002,2002-07-31,New York Red Bulls,2,3,Columbus Crew,0
+2002,2002-08-10,Colorado Rapids,2,1,Columbus Crew,0
+2002,2002-08-10,DC United,0,0,Sporting Kansas City,0
+2002,2002-08-10,Los Angeles Galaxy,2,1,New England Revolution,0
+2002,2002-08-10,FC Dallas,3,1,Chicago Fire,0
+2002,2002-08-14,Chicago Fire,5,1,Sporting Kansas City,0
+2002,2002-08-14,Columbus Crew,3,2,Los Angeles Galaxy,0
+2002,2002-08-17,Los Angeles Galaxy,4,0,Colorado Rapids,0
+2002,2002-08-17,New York Red Bulls,1,3,FC Dallas,0
+2002,2002-08-17,Houston Dynamo,2,2,DC United,0
+2002,2002-08-18,New England Revolution,0,2,Chicago Fire,0
+2002,2002-08-18,Sporting Kansas City,0,4,Columbus Crew,0
+2002,2002-08-21,Houston Dynamo,3,1,FC Dallas,0
+2002,2002-08-21,Los Angeles Galaxy,2,1,Sporting Kansas City,0
+2002,2002-08-24,Chicago Fire,1,2,New England Revolution,0
+2002,2002-08-24,FC Dallas,1,0,Los Angeles Galaxy,1
+2002,2002-08-24,Colorado Rapids,3,0,Houston Dynamo,0
+2002,2002-08-25,New York Red Bulls,1,0,DC United,0
+2002,2002-08-28,New England Revolution,3,1,Colorado Rapids,0
+2002,2002-08-31,Columbus Crew,0,0,New England Revolution,0
+2002,2002-08-31,DC United,4,2,Houston Dynamo,0
+2002,2002-08-31,Los Angeles Galaxy,3,0,New York Red Bulls,0
+2002,2002-08-31,Sporting Kansas City,2,1,Chicago Fire,0
+2002,2002-09-01,Colorado Rapids,3,2,FC Dallas,0
+2002,2002-09-05,FC Dallas,1,3,New York Red Bulls,0
+2002,2002-09-07,Chicago Fire,1,2,Los Angeles Galaxy,0
+2002,2002-09-07,Houston Dynamo,4,3,Columbus Crew,1
+2002,2002-09-07,New England Revolution,3,0,DC United,0
+2002,2002-09-12,New York Red Bulls,0,1,DC United,0
+2002,2002-09-14,Columbus Crew,2,0,Chicago Fire,0
+2002,2002-09-14,DC United,2,1,New York Red Bulls,0
+2002,2002-09-14,FC Dallas,1,2,New England Revolution,0
+2002,2002-09-14,Los Angeles Galaxy,1,0,Houston Dynamo,0
+2002,2002-09-14,Sporting Kansas City,1,2,Colorado Rapids,0
+2002,2002-09-19,DC United,3,4,FC Dallas,1
+2002,2002-09-20,Colorado Rapids,1,1,Sporting Kansas City,0
+2002,2002-09-21,Houston Dynamo,0,1,Los Angeles Galaxy,0
+2002,2002-09-21,New England Revolution,3,0,New York Red Bulls,0
+2002,2002-09-22,Chicago Fire,2,1,Columbus Crew,0
+2002,2002-09-25,FC Dallas,4,2,Colorado Rapids,0
+2002,2002-09-25,Houston Dynamo,1,2,Columbus Crew,0
+2002,2002-09-25,Los Angeles Galaxy,3,2,Sporting Kansas City,1
+2002,2002-09-26,New England Revolution,2,0,Chicago Fire,0
+2002,2002-09-28,Colorado Rapids,1,0,FC Dallas,0
+2002,2002-09-28,Columbus Crew,2,1,Houston Dynamo,0
+2002,2002-09-28,Sporting Kansas City,4,1,Los Angeles Galaxy,0
+2002,2002-09-29,Chicago Fire,2,1,New England Revolution,0
+2002,2002-10-02,FC Dallas,1,2,Colorado Rapids,1
+2002,2002-10-02,Los Angeles Galaxy,5,2,Sporting Kansas City,0
+2002,2002-10-02,New England Revolution,2,0,Chicago Fire,0
+2002,2002-10-05,Los Angeles Galaxy,4,0,Colorado Rapids,0
+2002,2002-10-06,New England Revolution,0,0,Columbus Crew,0
+2002,2002-10-09,Colorado Rapids,0,1,Los Angeles Galaxy,0
+2002,2002-10-09,Columbus Crew,0,1,New England Revolution,0
+2002,2002-10-12,New England Revolution,2,2,Columbus Crew,0
+2002,2002-10-20,New England Revolution,0,1,Los Angeles Galaxy,1
+2003,2003-04-05,Columbus Crew,1,1,Los Angeles Galaxy,1
+2003,2003-04-12,Colorado Rapids,1,2,Houston Dynamo,0
+2003,2003-04-12,New York Red Bulls,0,1,Columbus Crew,0
+2003,2003-04-12,Sporting Kansas City,3,2,DC United,1
+2003,2003-04-12,FC Dallas,1,1,Los Angeles Galaxy,1
+2003,2003-04-13,Chicago Fire,1,1,New England Revolution,1
+2003,2003-04-19,DC United,0,0,Chicago Fire,1
+2003,2003-04-19,Houston Dynamo,1,1,Sporting Kansas City,1
+2003,2003-04-19,New York Red Bulls,1,1,Los Angeles Galaxy,1
+2003,2003-04-19,New England Revolution,1,2,Columbus Crew,0
+2003,2003-04-26,Colorado Rapids,1,1,DC United,1
+2003,2003-04-26,FC Dallas,1,2,New England Revolution,0
+2003,2003-04-26,Houston Dynamo,1,0,Los Angeles Galaxy,0
+2003,2003-04-26,Sporting Kansas City,2,3,Chicago Fire,0
+2003,2003-04-26,Columbus Crew,0,1,New York Red Bulls,0
+2003,2003-05-03,DC United,0,0,FC Dallas,1
+2003,2003-05-03,New York Red Bulls,2,1,Colorado Rapids,0
+2003,2003-05-03,Sporting Kansas City,2,2,Columbus Crew,1
+2003,2003-05-03,New England Revolution,0,2,Houston Dynamo,0
+2003,2003-05-10,Chicago Fire,0,0,Houston Dynamo,1
+2003,2003-05-10,Columbus Crew,2,0,Colorado Rapids,0
+2003,2003-05-10,FC Dallas,1,3,Sporting Kansas City,0
+2003,2003-05-10,New York Red Bulls,1,0,DC United,0
+2003,2003-05-10,New England Revolution,2,0,Los Angeles Galaxy,0
+2003,2003-05-14,Sporting Kansas City,1,1,New England Revolution,1
+2003,2003-05-17,DC United,1,1,Sporting Kansas City,1
+2003,2003-05-17,FC Dallas,1,1,Los Angeles Galaxy,1
+2003,2003-05-17,Houston Dynamo,4,3,Columbus Crew,0
+2003,2003-05-17,New England Revolution,3,0,Chicago Fire,0
+2003,2003-05-17,Colorado Rapids,0,2,New York Red Bulls,0
+2003,2003-05-24,Columbus Crew,2,3,New England Revolution,0
+2003,2003-05-24,New York Red Bulls,2,1,FC Dallas,0
+2003,2003-05-24,Sporting Kansas City,2,1,Los Angeles Galaxy,0
+2003,2003-05-25,Chicago Fire,4,0,Colorado Rapids,0
+2003,2003-05-31,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2003,2003-05-31,Columbus Crew,1,1,New York Red Bulls,1
+2003,2003-05-31,FC Dallas,3,2,DC United,0
+2003,2003-05-31,New England Revolution,2,2,Sporting Kansas City,1
+2003,2003-05-31,Houston Dynamo,1,4,Chicago Fire,0
+2003,2003-06-07,Columbus Crew,1,0,Houston Dynamo,0
+2003,2003-06-07,DC United,2,0,Chicago Fire,0
+2003,2003-06-07,Sporting Kansas City,2,1,New York Red Bulls,0
+2003,2003-06-07,Los Angeles Galaxy,2,0,Colorado Rapids,0
+2003,2003-06-11,Colorado Rapids,0,0,DC United,1
+2003,2003-06-14,Colorado Rapids,4,1,New England Revolution,0
+2003,2003-06-14,DC United,3,0,Columbus Crew,0
+2003,2003-06-14,FC Dallas,1,2,Houston Dynamo,0
+2003,2003-06-14,Los Angeles Galaxy,2,1,Sporting Kansas City,0
+2003,2003-06-14,New York Red Bulls,2,3,Chicago Fire,0
+2003,2003-06-18,Chicago Fire,4,1,FC Dallas,0
+2003,2003-06-18,Los Angeles Galaxy,1,1,Houston Dynamo,1
+2003,2003-06-21,DC United,1,1,New England Revolution,1
+2003,2003-06-21,FC Dallas,3,1,Colorado Rapids,0
+2003,2003-06-21,Houston Dynamo,2,1,Columbus Crew,0
+2003,2003-06-21,Sporting Kansas City,4,2,Chicago Fire,0
+2003,2003-06-21,New York Red Bulls,1,0,Los Angeles Galaxy,0
+2003,2003-06-25,Colorado Rapids,2,2,Los Angeles Galaxy,1
+2003,2003-06-28,Columbus Crew,3,0,DC United,0
+2003,2003-06-28,Houston Dynamo,0,0,Sporting Kansas City,1
+2003,2003-06-28,Los Angeles Galaxy,3,0,FC Dallas,0
+2003,2003-06-28,New England Revolution,3,2,Colorado Rapids,0
+2003,2003-06-28,Chicago Fire,2,1,New York Red Bulls,1
+2003,2003-07-02,FC Dallas,1,3,DC United,0
+2003,2003-07-02,New York Red Bulls,4,4,Houston Dynamo,1
+2003,2003-07-04,Colorado Rapids,3,2,Sporting Kansas City,0
+2003,2003-07-04,Los Angeles Galaxy,2,2,New England Revolution,1
+2003,2003-07-05,Columbus Crew,0,0,FC Dallas,1
+2003,2003-07-05,Houston Dynamo,0,0,Chicago Fire,1
+2003,2003-07-05,DC United,2,3,New York Red Bulls,1
+2003,2003-07-09,Los Angeles Galaxy,0,1,Colorado Rapids,0
+2003,2003-07-12,Chicago Fire,1,2,DC United,0
+2003,2003-07-12,Houston Dynamo,0,2,Colorado Rapids,0
+2003,2003-07-12,Sporting Kansas City,5,1,FC Dallas,0
+2003,2003-07-12,New England Revolution,3,3,New York Red Bulls,1
+2003,2003-07-16,New England Revolution,1,2,FC Dallas,0
+2003,2003-07-19,Chicago Fire,3,1,New England Revolution,0
+2003,2003-07-19,Columbus Crew,0,1,Sporting Kansas City,0
+2003,2003-07-19,FC Dallas,1,2,New York Red Bulls,1
+2003,2003-07-19,DC United,1,2,Houston Dynamo,0
+2003,2003-07-23,Columbus Crew,1,1,New England Revolution,1
+2003,2003-07-26,Chicago Fire,2,0,Sporting Kansas City,0
+2003,2003-07-26,Colorado Rapids,1,0,New York Red Bulls,0
+2003,2003-07-26,Houston Dynamo,3,0,FC Dallas,0
+2003,2003-07-27,New England Revolution,2,4,DC United,0
+2003,2003-07-30,Los Angeles Galaxy,2,1,Columbus Crew,0
+2003,2003-08-08,Sporting Kansas City,0,1,Houston Dynamo,0
+2003,2003-08-09,Colorado Rapids,2,0,FC Dallas,0
+2003,2003-08-09,DC United,1,0,New England Revolution,0
+2003,2003-08-09,Los Angeles Galaxy,3,1,Columbus Crew,0
+2003,2003-08-09,Chicago Fire,1,1,New York Red Bulls,1
+2003,2003-08-13,Columbus Crew,2,2,Chicago Fire,1
+2003,2003-08-13,DC United,1,0,Colorado Rapids,0
+2003,2003-08-13,FC Dallas,0,3,Houston Dynamo,0
+2003,2003-08-13,New York Red Bulls,0,0,Sporting Kansas City,1
+2003,2003-08-16,Chicago Fire,3,1,DC United,0
+2003,2003-08-16,Colorado Rapids,2,1,Columbus Crew,1
+2003,2003-08-16,FC Dallas,3,2,Sporting Kansas City,0
+2003,2003-08-16,Los Angeles Galaxy,1,1,New York Red Bulls,1
+2003,2003-08-16,New England Revolution,1,1,Houston Dynamo,1
+2003,2003-08-20,Chicago Fire,1,0,Los Angeles Galaxy,0
+2003,2003-08-22,Sporting Kansas City,2,2,Colorado Rapids,1
+2003,2003-08-23,FC Dallas,1,2,Columbus Crew,0
+2003,2003-08-23,Los Angeles Galaxy,2,1,New England Revolution,1
+2003,2003-08-24,Houston Dynamo,1,0,DC United,0
+2003,2003-08-24,New York Red Bulls,1,2,Chicago Fire,0
+2003,2003-08-30,Houston Dynamo,1,2,Colorado Rapids,0
+2003,2003-08-30,Los Angeles Galaxy,2,1,FC Dallas,0
+2003,2003-08-30,New England Revolution,5,1,Chicago Fire,0
+2003,2003-08-31,Columbus Crew,1,0,Sporting Kansas City,0
+2003,2003-09-06,Chicago Fire,1,1,Columbus Crew,1
+2003,2003-09-06,Colorado Rapids,2,1,FC Dallas,0
+2003,2003-09-06,DC United,2,1,Los Angeles Galaxy,0
+2003,2003-09-06,Sporting Kansas City,1,2,New York Red Bulls,0
+2003,2003-09-07,Houston Dynamo,2,1,New England Revolution,0
+2003,2003-09-13,Colorado Rapids,1,0,Sporting Kansas City,0
+2003,2003-09-13,Columbus Crew,3,2,FC Dallas,0
+2003,2003-09-13,DC United,2,1,Houston Dynamo,0
+2003,2003-09-13,Los Angeles Galaxy,0,2,Chicago Fire,0
+2003,2003-09-13,New York Red Bulls,1,2,New England Revolution,0
+2003,2003-09-18,New England Revolution,0,0,Colorado Rapids,1
+2003,2003-09-20,FC Dallas,2,0,Chicago Fire,0
+2003,2003-09-20,Los Angeles Galaxy,1,0,DC United,1
+2003,2003-09-20,New York Red Bulls,1,0,Columbus Crew,1
+2003,2003-09-20,Sporting Kansas City,1,4,Houston Dynamo,0
+2003,2003-09-25,New York Red Bulls,0,2,DC United,0
+2003,2003-09-27,Houston Dynamo,5,2,FC Dallas,0
+2003,2003-09-27,Los Angeles Galaxy,1,2,Sporting Kansas City,0
+2003,2003-09-28,New England Revolution,3,2,Columbus Crew,1
+2003,2003-09-28,DC United,1,1,New York Red Bulls,1
+2003,2003-10-01,Colorado Rapids,1,1,Chicago Fire,1
+2003,2003-10-04,Chicago Fire,2,0,Los Angeles Galaxy,0
+2003,2003-10-04,Columbus Crew,1,1,DC United,1
+2003,2003-10-04,FC Dallas,1,4,New England Revolution,0
+2003,2003-10-04,Sporting Kansas City,4,2,Colorado Rapids,0
+2003,2003-10-05,Houston Dynamo,0,2,New York Red Bulls,0
+2003,2003-10-10,Chicago Fire,2,0,Columbus Crew,0
+2003,2003-10-10,Colorado Rapids,0,0,Houston Dynamo,1
+2003,2003-10-11,New York Red Bulls,0,0,FC Dallas,1
+2003,2003-10-11,Sporting Kansas City,2,1,Los Angeles Galaxy,1
+2003,2003-10-11,New England Revolution,1,0,DC United,1
+2003,2003-10-18,Chicago Fire,4,3,Colorado Rapids,0
+2003,2003-10-18,Los Angeles Galaxy,3,0,Houston Dynamo,0
+2003,2003-10-18,New York Red Bulls,1,2,New England Revolution,0
+2003,2003-10-18,Sporting Kansas City,1,0,FC Dallas,0
+2003,2003-10-19,DC United,2,3,Columbus Crew,1
+2003,2003-10-25,DC United,1,1,Sporting Kansas City,1
+2003,2003-10-25,FC Dallas,4,3,Colorado Rapids,0
+2003,2003-10-25,Houston Dynamo,1,1,Los Angeles Galaxy,1
+2003,2003-10-25,New England Revolution,5,2,New York Red Bulls,0
+2003,2003-10-26,Columbus Crew,6,2,Chicago Fire,0
+2003,2003-11-01,DC United,0,2,Chicago Fire,0
+2003,2003-11-01,Los Angeles Galaxy,2,0,Houston Dynamo,0
+2003,2003-11-01,New York Red Bulls,0,2,New England Revolution,0
+2003,2003-11-04,Colorado Rapids,1,1,Sporting Kansas City,0
+2003,2003-11-08,Sporting Kansas City,2,0,Colorado Rapids,0
+2003,2003-11-09,Houston Dynamo,4,2,Los Angeles Galaxy,0
+2003,2003-11-09,New England Revolution,1,1,New York Red Bulls,0
+2003,2003-11-09,Chicago Fire,2,0,DC United,0
+2003,2003-11-14,Chicago Fire,1,0,New England Revolution,1
+2003,2003-11-15,Houston Dynamo,3,2,Sporting Kansas City,1
+2003,2003-11-23,Chicago Fire,2,4,Houston Dynamo,0
+2004,2004-04-03,Columbus Crew,1,3,New York Red Bulls,0
+2004,2004-04-03,FC Dallas,1,1,Colorado Rapids,0
+2004,2004-04-03,Los Angeles Galaxy,3,2,New England Revolution,0
+2004,2004-04-03,Sporting Kansas City,0,0,Chicago Fire,0
+2004,2004-04-03,DC United,2,1,Houston Dynamo,0
+2004,2004-04-10,Los Angeles Galaxy,1,1,DC United,0
+2004,2004-04-10,Houston Dynamo,0,0,Chicago Fire,0
+2004,2004-04-17,Chicago Fire,0,2,FC Dallas,0
+2004,2004-04-17,Colorado Rapids,1,1,Los Angeles Galaxy,0
+2004,2004-04-17,New England Revolution,1,3,Houston Dynamo,0
+2004,2004-04-17,Sporting Kansas City,1,0,Columbus Crew,0
+2004,2004-04-17,New York Red Bulls,3,2,DC United,0
+2004,2004-04-24,Colorado Rapids,1,0,Houston Dynamo,0
+2004,2004-04-24,FC Dallas,1,0,Sporting Kansas City,0
+2004,2004-04-24,Los Angeles Galaxy,2,0,Columbus Crew,0
+2004,2004-04-24,DC United,0,1,Chicago Fire,0
+2004,2004-04-25,New York Red Bulls,1,1,New England Revolution,0
+2004,2004-05-01,Chicago Fire,3,0,New York Red Bulls,0
+2004,2004-05-01,Columbus Crew,0,0,FC Dallas,0
+2004,2004-05-01,New England Revolution,2,1,Los Angeles Galaxy,0
+2004,2004-05-01,Sporting Kansas City,2,0,Colorado Rapids,0
+2004,2004-05-01,Houston Dynamo,1,1,DC United,0
+2004,2004-05-07,Colorado Rapids,0,0,New England Revolution,0
+2004,2004-05-08,DC United,1,1,Columbus Crew,0
+2004,2004-05-08,Houston Dynamo,5,5,New York Red Bulls,0
+2004,2004-05-08,Sporting Kansas City,2,2,Chicago Fire,0
+2004,2004-05-08,FC Dallas,1,3,Los Angeles Galaxy,0
+2004,2004-05-15,DC United,1,0,Sporting Kansas City,0
+2004,2004-05-15,FC Dallas,1,2,Houston Dynamo,0
+2004,2004-05-15,Los Angeles Galaxy,1,1,Colorado Rapids,0
+2004,2004-05-15,New York Red Bulls,1,1,Chicago Fire,0
+2004,2004-05-15,Columbus Crew,1,0,New England Revolution,0
+2004,2004-05-19,DC United,2,4,Los Angeles Galaxy,0
+2004,2004-05-22,Colorado Rapids,2,1,DC United,0
+2004,2004-05-22,Houston Dynamo,4,2,Los Angeles Galaxy,0
+2004,2004-05-22,Sporting Kansas City,2,0,FC Dallas,0
+2004,2004-05-22,New England Revolution,1,1,New York Red Bulls,0
+2004,2004-05-23,Chicago Fire,1,3,Columbus Crew,0
+2004,2004-05-29,Chicago Fire,1,0,Colorado Rapids,0
+2004,2004-05-29,Columbus Crew,1,0,Houston Dynamo,0
+2004,2004-05-29,Los Angeles Galaxy,4,1,FC Dallas,0
+2004,2004-05-29,New England Revolution,0,1,DC United,0
+2004,2004-05-30,New York Red Bulls,1,0,Sporting Kansas City,0
+2004,2004-06-02,Sporting Kansas City,2,3,New England Revolution,0
+2004,2004-06-05,Los Angeles Galaxy,1,2,Sporting Kansas City,0
+2004,2004-06-05,New York Red Bulls,0,2,FC Dallas,0
+2004,2004-06-05,Chicago Fire,3,0,DC United,0
+2004,2004-06-06,New England Revolution,1,2,Columbus Crew,0
+2004,2004-06-09,Colorado Rapids,0,1,Sporting Kansas City,0
+2004,2004-06-12,Columbus Crew,2,2,Sporting Kansas City,0
+2004,2004-06-12,DC United,0,0,Colorado Rapids,0
+2004,2004-06-12,FC Dallas,3,1,New England Revolution,0
+2004,2004-06-12,Houston Dynamo,3,1,New York Red Bulls,0
+2004,2004-06-12,Los Angeles Galaxy,3,2,Chicago Fire,0
+2004,2004-06-19,Chicago Fire,1,1,Houston Dynamo,0
+2004,2004-06-19,Colorado Rapids,1,1,FC Dallas,0
+2004,2004-06-19,DC United,3,1,Columbus Crew,0
+2004,2004-06-19,New England Revolution,1,3,Sporting Kansas City,0
+2004,2004-06-19,New York Red Bulls,2,1,Los Angeles Galaxy,0
+2004,2004-06-23,Los Angeles Galaxy,0,3,New York Red Bulls,0
+2004,2004-06-26,Columbus Crew,1,2,Colorado Rapids,0
+2004,2004-06-26,Houston Dynamo,1,1,Sporting Kansas City,0
+2004,2004-06-26,New England Revolution,2,1,New York Red Bulls,0
+2004,2004-06-26,FC Dallas,1,1,DC United,0
+2004,2004-06-27,Chicago Fire,0,1,Los Angeles Galaxy,0
+2004,2004-06-30,New York Red Bulls,2,3,Colorado Rapids,0
+2004,2004-07-03,Columbus Crew,2,0,Chicago Fire,0
+2004,2004-07-03,Sporting Kansas City,5,1,FC Dallas,0
+2004,2004-07-03,DC United,6,2,New York Red Bulls,0
+2004,2004-07-04,Colorado Rapids,1,0,New England Revolution,0
+2004,2004-07-04,Los Angeles Galaxy,2,1,Houston Dynamo,0
+2004,2004-07-07,Houston Dynamo,1,2,FC Dallas,0
+2004,2004-07-10,FC Dallas,0,0,Columbus Crew,0
+2004,2004-07-10,Los Angeles Galaxy,2,0,Colorado Rapids,0
+2004,2004-07-10,Sporting Kansas City,1,0,DC United,0
+2004,2004-07-10,New York Red Bulls,2,0,Houston Dynamo,0
+2004,2004-07-11,Chicago Fire,1,1,New England Revolution,0
+2004,2004-07-14,Colorado Rapids,0,0,Los Angeles Galaxy,0
+2004,2004-07-14,New England Revolution,3,1,Chicago Fire,0
+2004,2004-07-17,Chicago Fire,1,1,New York Red Bulls,0
+2004,2004-07-17,Columbus Crew,1,1,New England Revolution,0
+2004,2004-07-17,DC United,1,1,Los Angeles Galaxy,0
+2004,2004-07-17,FC Dallas,0,1,Sporting Kansas City,0
+2004,2004-07-17,Houston Dynamo,3,1,Colorado Rapids,0
+2004,2004-07-24,Colorado Rapids,0,0,Columbus Crew,0
+2004,2004-07-24,FC Dallas,5,1,DC United,0
+2004,2004-07-24,Houston Dynamo,2,2,New England Revolution,0
+2004,2004-07-24,New York Red Bulls,2,1,Chicago Fire,0
+2004,2004-07-24,Sporting Kansas City,2,2,Los Angeles Galaxy,0
+2004,2004-07-28,Colorado Rapids,2,0,Chicago Fire,0
+2004,2004-07-28,Columbus Crew,2,1,FC Dallas,0
+2004,2004-07-28,Sporting Kansas City,1,2,New York Red Bulls,0
+2004,2004-08-07,FC Dallas,1,0,Colorado Rapids,0
+2004,2004-08-07,Houston Dynamo,2,0,DC United,0
+2004,2004-08-07,New England Revolution,2,2,Columbus Crew,0
+2004,2004-08-08,New York Red Bulls,3,0,Los Angeles Galaxy,0
+2004,2004-08-11,Chicago Fire,2,1,Houston Dynamo,0
+2004,2004-08-11,DC United,3,1,Colorado Rapids,0
+2004,2004-08-11,FC Dallas,0,3,New England Revolution,0
+2004,2004-08-14,Chicago Fire,0,3,Colorado Rapids,0
+2004,2004-08-14,DC United,2,2,New England Revolution,0
+2004,2004-08-14,Los Angeles Galaxy,0,0,Columbus Crew,0
+2004,2004-08-14,Sporting Kansas City,0,2,Houston Dynamo,0
+2004,2004-08-15,New York Red Bulls,0,1,FC Dallas,0
+2004,2004-08-18,Columbus Crew,2,1,Sporting Kansas City,0
+2004,2004-08-21,Colorado Rapids,1,0,New York Red Bulls,0
+2004,2004-08-21,Columbus Crew,2,2,DC United,0
+2004,2004-08-21,Houston Dynamo,3,0,FC Dallas,0
+2004,2004-08-21,Los Angeles Galaxy,1,1,Chicago Fire,0
+2004,2004-08-21,New England Revolution,1,2,Sporting Kansas City,0
+2004,2004-08-28,FC Dallas,4,1,Chicago Fire,0
+2004,2004-08-28,Houston Dynamo,0,0,Colorado Rapids,0
+2004,2004-08-28,New England Revolution,0,0,DC United,0
+2004,2004-08-29,New York Red Bulls,1,1,Columbus Crew,0
+2004,2004-09-01,Chicago Fire,3,1,Sporting Kansas City,0
+2004,2004-09-04,Chicago Fire,3,1,DC United,0
+2004,2004-09-04,Colorado Rapids,2,1,FC Dallas,0
+2004,2004-09-04,Columbus Crew,3,1,Los Angeles Galaxy,0
+2004,2004-09-04,New England Revolution,0,1,Houston Dynamo,0
+2004,2004-09-04,Sporting Kansas City,1,0,New York Red Bulls,0
+2004,2004-09-08,Houston Dynamo,0,1,Columbus Crew,0
+2004,2004-09-11,Colorado Rapids,3,1,Sporting Kansas City,0
+2004,2004-09-11,Los Angeles Galaxy,2,1,Houston Dynamo,0
+2004,2004-09-11,New York Red Bulls,3,2,New England Revolution,0
+2004,2004-09-11,DC United,3,0,FC Dallas,0
+2004,2004-09-18,Columbus Crew,4,2,New York Red Bulls,0
+2004,2004-09-18,DC United,3,1,Chicago Fire,0
+2004,2004-09-18,FC Dallas,2,0,Los Angeles Galaxy,0
+2004,2004-09-18,New England Revolution,6,1,Colorado Rapids,0
+2004,2004-09-18,Sporting Kansas City,1,0,Houston Dynamo,0
+2004,2004-09-25,Chicago Fire,2,0,New England Revolution,0
+2004,2004-09-25,Columbus Crew,1,0,DC United,0
+2004,2004-09-25,FC Dallas,0,2,New York Red Bulls,0
+2004,2004-09-25,Houston Dynamo,0,0,Los Angeles Galaxy,0
+2004,2004-09-25,Sporting Kansas City,1,0,Colorado Rapids,0
+2004,2004-10-02,Colorado Rapids,1,1,Houston Dynamo,0
+2004,2004-10-02,Columbus Crew,3,3,Chicago Fire,0
+2004,2004-10-02,Los Angeles Galaxy,1,1,Sporting Kansas City,0
+2004,2004-10-02,New England Revolution,2,0,FC Dallas,0
+2004,2004-10-02,New York Red Bulls,0,1,DC United,0
+2004,2004-10-06,Chicago Fire,0,1,Columbus Crew,0
+2004,2004-10-09,DC United,1,0,New England Revolution,0
+2004,2004-10-09,Houston Dynamo,0,0,Sporting Kansas City,0
+2004,2004-10-09,Los Angeles Galaxy,2,0,FC Dallas,0
+2004,2004-10-09,New York Red Bulls,1,1,Columbus Crew,0
+2004,2004-10-16,Colorado Rapids,1,1,Columbus Crew,0
+2004,2004-10-16,FC Dallas,2,2,Houston Dynamo,0
+2004,2004-10-16,New England Revolution,2,1,Chicago Fire,0
+2004,2004-10-16,Sporting Kansas City,1,0,Los Angeles Galaxy,0
+2004,2004-10-17,DC United,3,2,New York Red Bulls,0
+2004,2004-10-22,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2004,2004-10-23,New England Revolution,1,0,Columbus Crew,0
+2004,2004-10-23,New York Red Bulls,0,2,DC United,0
+2004,2004-10-24,Houston Dynamo,2,0,Sporting Kansas City,0
+2004,2004-10-30,DC United,2,0,New York Red Bulls,0
+2004,2004-10-30,Los Angeles Galaxy,2,0,Colorado Rapids,0
+2004,2004-10-30,Sporting Kansas City,3,0,Houston Dynamo,0
+2004,2004-10-31,Columbus Crew,1,1,New England Revolution,0
+2004,2004-11-05,Sporting Kansas City,2,0,Los Angeles Galaxy,0
+2004,2004-11-06,DC United,4,3,New England Revolution,1
+2004,2004-11-14,Sporting Kansas City,2,3,DC United,0
+2005,2005-04-02,Columbus Crew,3,0,Los Angeles Galaxy,0
+2005,2005-04-02,FC Dallas,2,1,Chicago Fire,0
+2005,2005-04-02,Houston Dynamo,2,2,New England Revolution,0
+2005,2005-04-02,New York Red Bulls,0,0,Real Salt Lake,0
+2005,2005-04-02,Sporting Kansas City,3,2,Colorado Rapids,0
+2005,2005-04-02,Chivas USA,0,2,DC United,0
+2005,2005-04-09,Colorado Rapids,0,0,FC Dallas,0
+2005,2005-04-09,DC United,1,1,Chicago Fire,0
+2005,2005-04-09,Los Angeles Galaxy,3,1,Real Salt Lake,0
+2005,2005-04-09,New England Revolution,3,0,Columbus Crew,0
+2005,2005-04-09,Houston Dynamo,3,3,Chivas USA,0
+2005,2005-04-15,Columbus Crew,1,0,DC United,0
+2005,2005-04-16,Chicago Fire,2,1,Houston Dynamo,0
+2005,2005-04-16,Chivas USA,1,3,FC Dallas,0
+2005,2005-04-16,New York Red Bulls,2,2,Sporting Kansas City,0
+2005,2005-04-16,Real Salt Lake,1,0,Colorado Rapids,0
+2005,2005-04-22,New York Red Bulls,0,1,Chicago Fire,0
+2005,2005-04-23,Colorado Rapids,2,0,Columbus Crew,0
+2005,2005-04-23,DC United,3,4,New England Revolution,0
+2005,2005-04-23,FC Dallas,3,0,Real Salt Lake,0
+2005,2005-04-23,Houston Dynamo,3,2,Sporting Kansas City,0
+2005,2005-04-23,Los Angeles Galaxy,3,1,Chivas USA,0
+2005,2005-04-27,Chicago Fire,0,3,New England Revolution,0
+2005,2005-04-30,Colorado Rapids,1,3,New York Red Bulls,0
+2005,2005-04-30,Columbus Crew,0,2,Chicago Fire,0
+2005,2005-04-30,Los Angeles Galaxy,2,0,FC Dallas,0
+2005,2005-04-30,New England Revolution,1,0,Chivas USA,0
+2005,2005-04-30,Real Salt Lake,2,2,Houston Dynamo,0
+2005,2005-04-30,Sporting Kansas City,0,0,DC United,0
+2005,2005-05-07,Chivas USA,1,0,Real Salt Lake,0
+2005,2005-05-07,DC United,3,1,Columbus Crew,0
+2005,2005-05-07,New England Revolution,2,0,Chicago Fire,0
+2005,2005-05-07,Sporting Kansas City,3,3,FC Dallas,0
+2005,2005-05-07,New York Red Bulls,0,1,Houston Dynamo,0
+2005,2005-05-08,Los Angeles Galaxy,3,2,Colorado Rapids,0
+2005,2005-05-14,Chicago Fire,0,3,New York Red Bulls,0
+2005,2005-05-14,Colorado Rapids,2,1,Chivas USA,0
+2005,2005-05-14,Columbus Crew,0,4,Sporting Kansas City,0
+2005,2005-05-14,Houston Dynamo,0,0,FC Dallas,0
+2005,2005-05-14,New England Revolution,1,0,DC United,0
+2005,2005-05-14,Real Salt Lake,2,1,Los Angeles Galaxy,0
+2005,2005-05-18,FC Dallas,2,1,Colorado Rapids,0
+2005,2005-05-18,Real Salt Lake,2,0,Chivas USA,0
+2005,2005-05-21,Chicago Fire,2,1,Colorado Rapids,0
+2005,2005-05-21,Columbus Crew,2,0,Real Salt Lake,0
+2005,2005-05-21,DC United,3,2,Sporting Kansas City,0
+2005,2005-05-21,Los Angeles Galaxy,2,1,Houston Dynamo,0
+2005,2005-05-21,New York Red Bulls,2,2,New England Revolution,0
+2005,2005-05-22,Chivas USA,2,5,FC Dallas,0
+2005,2005-05-25,Colorado Rapids,0,1,Houston Dynamo,0
+2005,2005-05-25,Los Angeles Galaxy,0,0,Columbus Crew,0
+2005,2005-05-25,Sporting Kansas City,1,0,New York Red Bulls,0
+2005,2005-05-28,Chivas USA,0,2,Los Angeles Galaxy,0
+2005,2005-05-28,Columbus Crew,0,3,New York Red Bulls,0
+2005,2005-05-28,DC United,0,2,FC Dallas,0
+2005,2005-05-28,New England Revolution,0,0,Colorado Rapids,0
+2005,2005-05-28,Real Salt Lake,0,3,Chicago Fire,0
+2005,2005-05-28,Sporting Kansas City,1,0,Houston Dynamo,0
+2005,2005-05-31,New York Red Bulls,2,1,Chicago Fire,0
+2005,2005-06-01,Chivas USA,1,1,Sporting Kansas City,0
+2005,2005-06-04,Houston Dynamo,0,0,DC United,0
+2005,2005-06-04,Los Angeles Galaxy,2,2,New York Red Bulls,0
+2005,2005-06-04,New England Revolution,1,1,Sporting Kansas City,0
+2005,2005-06-04,Real Salt Lake,0,2,FC Dallas,0
+2005,2005-06-04,Chicago Fire,5,2,Chivas USA,0
+2005,2005-06-11,Los Angeles Galaxy,1,0,Real Salt Lake,0
+2005,2005-06-11,Sporting Kansas City,0,2,New England Revolution,0
+2005,2005-06-11,Columbus Crew,1,0,Colorado Rapids,0
+2005,2005-06-12,Chicago Fire,2,0,FC Dallas,0
+2005,2005-06-12,Chivas USA,1,1,Houston Dynamo,0
+2005,2005-06-12,New York Red Bulls,0,0,DC United,0
+2005,2005-06-15,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2005,2005-06-15,DC United,4,3,Chicago Fire,0
+2005,2005-06-18,Chivas USA,1,3,Colorado Rapids,0
+2005,2005-06-18,DC United,2,0,New England Revolution,0
+2005,2005-06-18,FC Dallas,1,0,Los Angeles Galaxy,0
+2005,2005-06-18,Houston Dynamo,3,0,Real Salt Lake,0
+2005,2005-06-18,New York Red Bulls,3,2,Columbus Crew,0
+2005,2005-06-18,Chicago Fire,1,1,Sporting Kansas City,0
+2005,2005-06-22,Columbus Crew,1,3,New England Revolution,0
+2005,2005-06-22,FC Dallas,2,1,Chivas USA,0
+2005,2005-06-22,Real Salt Lake,1,1,Los Angeles Galaxy,0
+2005,2005-06-25,Colorado Rapids,1,3,FC Dallas,0
+2005,2005-06-25,Houston Dynamo,3,0,Los Angeles Galaxy,0
+2005,2005-06-25,New England Revolution,4,2,New York Red Bulls,0
+2005,2005-06-25,Sporting Kansas City,3,0,Chivas USA,0
+2005,2005-06-26,Chicago Fire,3,1,Real Salt Lake,0
+2005,2005-06-29,Chicago Fire,4,3,DC United,0
+2005,2005-06-29,Houston Dynamo,1,0,Colorado Rapids,0
+2005,2005-06-29,Sporting Kansas City,1,1,Columbus Crew,0
+2005,2005-07-02,Chivas USA,0,1,Chicago Fire,0
+2005,2005-07-02,Columbus Crew,0,1,DC United,0
+2005,2005-07-02,FC Dallas,2,2,Houston Dynamo,0
+2005,2005-07-04,Colorado Rapids,2,1,Sporting Kansas City,0
+2005,2005-07-04,Los Angeles Galaxy,1,1,New England Revolution,0
+2005,2005-07-04,Real Salt Lake,2,2,New York Red Bulls,0
+2005,2005-07-09,Chicago Fire,1,0,New England Revolution,0
+2005,2005-07-09,Chivas USA,5,1,Real Salt Lake,0
+2005,2005-07-09,Columbus Crew,1,2,Houston Dynamo,0
+2005,2005-07-09,DC United,0,1,Sporting Kansas City,0
+2005,2005-07-09,New York Red Bulls,2,1,Los Angeles Galaxy,0
+2005,2005-07-15,DC United,3,0,Houston Dynamo,0
+2005,2005-07-16,Los Angeles Galaxy,2,0,Chivas USA,0
+2005,2005-07-16,New England Revolution,3,2,FC Dallas,0
+2005,2005-07-16,New York Red Bulls,1,1,Colorado Rapids,0
+2005,2005-07-16,Sporting Kansas City,3,2,Real Salt Lake,0
+2005,2005-07-16,Chicago Fire,1,1,Columbus Crew,0
+2005,2005-07-20,Colorado Rapids,1,2,Houston Dynamo,0
+2005,2005-07-20,Columbus Crew,1,0,New York Red Bulls,0
+2005,2005-07-20,Sporting Kansas City,1,1,DC United,0
+2005,2005-07-22,Chivas USA,1,0,New England Revolution,0
+2005,2005-07-23,Colorado Rapids,4,1,Chicago Fire,0
+2005,2005-07-23,Columbus Crew,2,0,Sporting Kansas City,0
+2005,2005-07-23,Houston Dynamo,2,1,New York Red Bulls,0
+2005,2005-07-23,Real Salt Lake,3,0,FC Dallas,0
+2005,2005-07-23,Los Angeles Galaxy,0,1,DC United,0
+2005,2005-07-27,New England Revolution,1,1,Los Angeles Galaxy,0
+2005,2005-07-27,New York Red Bulls,3,2,FC Dallas,0
+2005,2005-08-06,Chicago Fire,2,3,DC United,0
+2005,2005-08-06,Colorado Rapids,2,0,Los Angeles Galaxy,0
+2005,2005-08-06,FC Dallas,2,2,New York Red Bulls,0
+2005,2005-08-06,Houston Dynamo,2,1,Columbus Crew,0
+2005,2005-08-06,New England Revolution,1,2,Sporting Kansas City,0
+2005,2005-08-06,Real Salt Lake,2,1,Chivas USA,0
+2005,2005-08-10,Chicago Fire,2,3,Sporting Kansas City,0
+2005,2005-08-10,Chivas USA,0,1,Los Angeles Galaxy,0
+2005,2005-08-10,DC United,3,0,New York Red Bulls,0
+2005,2005-08-10,New England Revolution,4,1,Real Salt Lake,0
+2005,2005-08-13,Chicago Fire,2,1,Los Angeles Galaxy,0
+2005,2005-08-13,DC United,3,0,Chivas USA,0
+2005,2005-08-13,FC Dallas,1,2,New England Revolution,0
+2005,2005-08-13,Houston Dynamo,1,1,Colorado Rapids,0
+2005,2005-08-13,Real Salt Lake,2,4,Sporting Kansas City,0
+2005,2005-08-14,New York Red Bulls,2,1,Columbus Crew,0
+2005,2005-08-17,Colorado Rapids,2,0,New England Revolution,0
+2005,2005-08-19,Sporting Kansas City,3,0,Chicago Fire,0
+2005,2005-08-20,DC United,2,3,Los Angeles Galaxy,0
+2005,2005-08-20,Real Salt Lake,0,1,Houston Dynamo,0
+2005,2005-08-20,Columbus Crew,1,0,FC Dallas,0
+2005,2005-08-21,New York Red Bulls,3,3,Chivas USA,0
+2005,2005-08-26,Sporting Kansas City,0,1,Columbus Crew,0
+2005,2005-08-27,FC Dallas,2,2,Chivas USA,0
+2005,2005-08-27,Houston Dynamo,2,1,Los Angeles Galaxy,0
+2005,2005-08-27,New England Revolution,2,1,DC United,0
+2005,2005-08-31,DC United,5,1,Real Salt Lake,0
+2005,2005-09-03,Chivas USA,0,3,Columbus Crew,0
+2005,2005-09-03,Colorado Rapids,1,0,DC United,0
+2005,2005-09-03,FC Dallas,0,2,Houston Dynamo,0
+2005,2005-09-03,New York Red Bulls,2,2,Sporting Kansas City,0
+2005,2005-09-03,Real Salt Lake,0,1,New England Revolution,0
+2005,2005-09-04,Los Angeles Galaxy,1,2,Chicago Fire,0
+2005,2005-09-10,FC Dallas,1,2,DC United,0
+2005,2005-09-10,Houston Dynamo,3,0,Chivas USA,0
+2005,2005-09-10,Los Angeles Galaxy,4,1,Colorado Rapids,0
+2005,2005-09-10,New England Revolution,3,1,Columbus Crew,0
+2005,2005-09-10,Sporting Kansas City,0,1,New York Red Bulls,0
+2005,2005-09-17,Chivas USA,1,2,Houston Dynamo,0
+2005,2005-09-17,Columbus Crew,1,2,Chicago Fire,0
+2005,2005-09-17,DC United,2,0,Colorado Rapids,0
+2005,2005-09-17,New York Red Bulls,5,4,New England Revolution,0
+2005,2005-09-17,Sporting Kansas City,2,2,Los Angeles Galaxy,0
+2005,2005-09-18,FC Dallas,2,1,Real Salt Lake,0
+2005,2005-09-21,Colorado Rapids,2,0,Real Salt Lake,0
+2005,2005-09-21,Columbus Crew,1,1,New England Revolution,0
+2005,2005-09-21,FC Dallas,4,1,Los Angeles Galaxy,0
+2005,2005-09-21,Houston Dynamo,2,0,Chicago Fire,0
+2005,2005-09-24,Chivas USA,1,3,Colorado Rapids,0
+2005,2005-09-24,Houston Dynamo,1,1,FC Dallas,0
+2005,2005-09-24,New England Revolution,1,0,New York Red Bulls,0
+2005,2005-09-24,Real Salt Lake,1,2,Columbus Crew,0
+2005,2005-09-25,Los Angeles Galaxy,2,1,Sporting Kansas City,0
+2005,2005-10-01,Colorado Rapids,2,1,Real Salt Lake,0
+2005,2005-10-01,Columbus Crew,0,1,Chivas USA,0
+2005,2005-10-01,Los Angeles Galaxy,2,1,FC Dallas,0
+2005,2005-10-01,New England Revolution,0,2,Houston Dynamo,0
+2005,2005-10-01,New York Red Bulls,1,4,DC United,0
+2005,2005-10-01,Sporting Kansas City,0,1,Chicago Fire,0
+2005,2005-10-05,Chicago Fire,2,2,New York Red Bulls,0
+2005,2005-10-05,Colorado Rapids,1,1,Chivas USA,0
+2005,2005-10-05,FC Dallas,2,1,Columbus Crew,0
+2005,2005-10-05,Real Salt Lake,1,3,DC United,0
+2005,2005-10-08,Chicago Fire,1,2,Columbus Crew,0
+2005,2005-10-08,DC United,1,2,New York Red Bulls,0
+2005,2005-10-08,FC Dallas,0,0,Colorado Rapids,0
+2005,2005-10-08,Houston Dynamo,2,2,Real Salt Lake,0
+2005,2005-10-08,Sporting Kansas City,2,2,New England Revolution,0
+2005,2005-10-12,Real Salt Lake,0,1,Colorado Rapids,0
+2005,2005-10-15,DC United,2,2,Columbus Crew,0
+2005,2005-10-15,FC Dallas,2,2,Sporting Kansas City,0
+2005,2005-10-15,Los Angeles Galaxy,1,3,Houston Dynamo,0
+2005,2005-10-15,New England Revolution,1,0,Chicago Fire,0
+2005,2005-10-16,Chivas USA,0,2,New York Red Bulls,0
+2005,2005-10-21,Chicago Fire,0,0,DC United,0
+2005,2005-10-22,Colorado Rapids,0,0,FC Dallas,0
+2005,2005-10-22,New York Red Bulls,1,0,New England Revolution,0
+2005,2005-10-23,Los Angeles Galaxy,3,1,Houston Dynamo,0
+2005,2005-10-29,FC Dallas,2,3,Colorado Rapids,1
+2005,2005-10-29,Houston Dynamo,1,1,Los Angeles Galaxy,0
+2005,2005-10-29,New England Revolution,3,1,New York Red Bulls,0
+2005,2005-10-30,DC United,0,4,Chicago Fire,0
+2005,2005-11-05,Colorado Rapids,0,2,Los Angeles Galaxy,0
+2005,2005-11-06,New England Revolution,1,0,Chicago Fire,0
+2005,2005-11-13,New England Revolution,0,1,Los Angeles Galaxy,1
+2006,2006-04-01,Los Angeles Galaxy,0,1,New England Revolution,0
+2006,2006-04-01,Sporting Kansas City,3,1,Columbus Crew,0
+2006,2006-04-01,FC Dallas,3,2,Chicago Fire,0
+2006,2006-04-02,Chivas USA,3,0,Real Salt Lake,0
+2006,2006-04-02,Houston Dynamo,5,2,Colorado Rapids,0
+2006,2006-04-02,DC United,2,2,New York Red Bulls,0
+2006,2006-04-08,Colorado Rapids,3,1,Columbus Crew,0
+2006,2006-04-08,FC Dallas,2,1,Real Salt Lake,0
+2006,2006-04-08,Houston Dynamo,1,2,Sporting Kansas City,0
+2006,2006-04-08,Los Angeles Galaxy,1,1,Chicago Fire,0
+2006,2006-04-08,New York Red Bulls,0,0,New England Revolution,0
+2006,2006-04-08,DC United,2,0,Chivas USA,0
+2006,2006-04-15,Chivas USA,1,2,Los Angeles Galaxy,0
+2006,2006-04-15,Colorado Rapids,2,2,FC Dallas,0
+2006,2006-04-15,DC United,2,0,Houston Dynamo,0
+2006,2006-04-15,Real Salt Lake,1,1,New York Red Bulls,0
+2006,2006-04-15,Sporting Kansas City,1,0,New England Revolution,0
+2006,2006-04-15,Columbus Crew,1,1,Chicago Fire,0
+2006,2006-04-22,Houston Dynamo,2,1,Real Salt Lake,0
+2006,2006-04-22,Los Angeles Galaxy,0,1,Columbus Crew,0
+2006,2006-04-22,New York Red Bulls,1,4,DC United,0
+2006,2006-04-23,FC Dallas,2,1,Sporting Kansas City,0
+2006,2006-04-29,Chivas USA,0,0,New York Red Bulls,0
+2006,2006-04-29,Colorado Rapids,0,1,Houston Dynamo,0
+2006,2006-04-29,Columbus Crew,0,1,Sporting Kansas City,0
+2006,2006-04-29,DC United,1,1,FC Dallas,0
+2006,2006-04-29,Real Salt Lake,2,3,Los Angeles Galaxy,0
+2006,2006-04-30,New England Revolution,1,2,Chicago Fire,0
+2006,2006-05-06,Colorado Rapids,2,1,DC United,0
+2006,2006-05-06,Houston Dynamo,4,3,FC Dallas,0
+2006,2006-05-06,Real Salt Lake,0,1,Columbus Crew,0
+2006,2006-05-06,Sporting Kansas City,1,1,Chicago Fire,0
+2006,2006-05-06,New England Revolution,4,0,Los Angeles Galaxy,0
+2006,2006-05-10,FC Dallas,1,0,Los Angeles Galaxy,0
+2006,2006-05-13,Columbus Crew,1,0,Colorado Rapids,0
+2006,2006-05-13,DC United,2,1,Sporting Kansas City,0
+2006,2006-05-13,Los Angeles Galaxy,0,3,Real Salt Lake,0
+2006,2006-05-13,New England Revolution,3,1,Chivas USA,0
+2006,2006-05-13,New York Red Bulls,1,1,Chicago Fire,0
+2006,2006-05-13,FC Dallas,1,1,Houston Dynamo,0
+2006,2006-05-20,Columbus Crew,1,1,DC United,0
+2006,2006-05-20,FC Dallas,4,0,New England Revolution,0
+2006,2006-05-20,Los Angeles Galaxy,0,1,Colorado Rapids,0
+2006,2006-05-20,New York Red Bulls,5,4,Chivas USA,0
+2006,2006-05-20,Real Salt Lake,2,1,Sporting Kansas City,0
+2006,2006-05-20,Houston Dynamo,0,1,Chicago Fire,0
+2006,2006-05-24,New York Red Bulls,1,2,FC Dallas,0
+2006,2006-05-27,Chivas USA,1,0,Chicago Fire,0
+2006,2006-05-27,New England Revolution,1,1,Houston Dynamo,0
+2006,2006-05-27,Sporting Kansas City,1,3,DC United,0
+2006,2006-05-27,Real Salt Lake,2,2,Colorado Rapids,0
+2006,2006-05-31,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2006,2006-05-31,DC United,5,1,Columbus Crew,0
+2006,2006-06-03,Chivas USA,4,1,Colorado Rapids,0
+2006,2006-06-03,DC United,1,0,New England Revolution,0
+2006,2006-06-03,FC Dallas,1,2,Columbus Crew,0
+2006,2006-06-03,Houston Dynamo,2,1,Los Angeles Galaxy,0
+2006,2006-06-03,Real Salt Lake,3,1,Chicago Fire,0
+2006,2006-06-03,Sporting Kansas City,1,1,New York Red Bulls,0
+2006,2006-06-08,Los Angeles Galaxy,1,2,Chivas USA,0
+2006,2006-06-09,Colorado Rapids,1,0,Real Salt Lake,0
+2006,2006-06-10,Chicago Fire,3,3,New England Revolution,0
+2006,2006-06-10,Columbus Crew,0,1,Sporting Kansas City,0
+2006,2006-06-10,FC Dallas,2,1,Chivas USA,0
+2006,2006-06-10,Los Angeles Galaxy,1,1,DC United,0
+2006,2006-06-10,New York Red Bulls,1,1,Houston Dynamo,0
+2006,2006-06-17,Houston Dynamo,2,1,Real Salt Lake,0
+2006,2006-06-17,New England Revolution,1,1,DC United,0
+2006,2006-06-17,New York Red Bulls,2,1,Los Angeles Galaxy,0
+2006,2006-06-17,Sporting Kansas City,3,2,Chicago Fire,0
+2006,2006-06-18,Chivas USA,2,0,Columbus Crew,0
+2006,2006-06-21,Colorado Rapids,1,1,Chivas USA,0
+2006,2006-06-21,Columbus Crew,1,1,New England Revolution,0
+2006,2006-06-21,DC United,1,0,Chicago Fire,0
+2006,2006-06-24,Columbus Crew,1,1,Chivas USA,0
+2006,2006-06-24,DC United,1,0,Sporting Kansas City,0
+2006,2006-06-24,FC Dallas,1,0,Colorado Rapids,0
+2006,2006-06-24,Los Angeles Galaxy,0,0,Houston Dynamo,0
+2006,2006-06-24,Real Salt Lake,0,0,New England Revolution,0
+2006,2006-06-25,Chicago Fire,2,0,New York Red Bulls,0
+2006,2006-06-28,Chicago Fire,2,1,Real Salt Lake,0
+2006,2006-06-28,Chivas USA,1,1,Houston Dynamo,0
+2006,2006-06-28,New England Revolution,1,0,FC Dallas,0
+2006,2006-06-28,New York Red Bulls,0,0,Columbus Crew,0
+2006,2006-06-28,Sporting Kansas City,2,3,DC United,0
+2006,2006-07-01,Chivas USA,3,0,FC Dallas,0
+2006,2006-07-01,New England Revolution,3,2,New York Red Bulls,0
+2006,2006-07-01,Sporting Kansas City,0,2,Los Angeles Galaxy,0
+2006,2006-07-04,Chicago Fire,1,0,Sporting Kansas City,0
+2006,2006-07-04,Colorado Rapids,3,2,New England Revolution,0
+2006,2006-07-04,FC Dallas,0,1,DC United,0
+2006,2006-07-04,Houston Dynamo,1,1,Columbus Crew,0
+2006,2006-07-04,Los Angeles Galaxy,1,0,New York Red Bulls,0
+2006,2006-07-04,Real Salt Lake,0,0,Chivas USA,0
+2006,2006-07-08,Chicago Fire,1,2,New England Revolution,0
+2006,2006-07-08,Colorado Rapids,1,0,Sporting Kansas City,0
+2006,2006-07-08,Columbus Crew,0,1,DC United,0
+2006,2006-07-08,FC Dallas,2,1,New York Red Bulls,0
+2006,2006-07-08,Los Angeles Galaxy,2,0,Real Salt Lake,0
+2006,2006-07-08,Houston Dynamo,3,1,Chivas USA,0
+2006,2006-07-14,New England Revolution,1,3,Real Salt Lake,0
+2006,2006-07-14,New York Red Bulls,1,0,Colorado Rapids,0
+2006,2006-07-15,Chivas USA,0,0,Los Angeles Galaxy,0
+2006,2006-07-15,DC United,3,2,Columbus Crew,0
+2006,2006-07-15,Sporting Kansas City,2,3,Houston Dynamo,0
+2006,2006-07-15,Chicago Fire,2,3,FC Dallas,0
+2006,2006-07-19,Columbus Crew,0,2,New York Red Bulls,0
+2006,2006-07-20,Colorado Rapids,3,3,Chivas USA,0
+2006,2006-07-22,Chicago Fire,1,1,DC United,0
+2006,2006-07-22,Columbus Crew,1,1,Los Angeles Galaxy,0
+2006,2006-07-22,Houston Dynamo,1,1,New England Revolution,0
+2006,2006-07-22,New York Red Bulls,1,0,Sporting Kansas City,0
+2006,2006-07-22,Real Salt Lake,0,1,FC Dallas,0
+2006,2006-07-26,Colorado Rapids,1,0,Houston Dynamo,0
+2006,2006-07-26,Real Salt Lake,3,3,Chivas USA,0
+2006,2006-07-29,Chicago Fire,0,0,Columbus Crew,0
+2006,2006-07-29,FC Dallas,4,1,Colorado Rapids,0
+2006,2006-07-29,Houston Dynamo,1,1,New York Red Bulls,0
+2006,2006-07-29,Real Salt Lake,2,1,DC United,0
+2006,2006-07-29,Sporting Kansas City,1,1,New England Revolution,0
+2006,2006-08-06,Chivas USA,1,1,New England Revolution,0
+2006,2006-08-09,Colorado Rapids,1,4,Real Salt Lake,0
+2006,2006-08-09,Houston Dynamo,0,1,Los Angeles Galaxy,0
+2006,2006-08-09,New England Revolution,0,0,Sporting Kansas City,0
+2006,2006-08-12,Chicago Fire,1,2,Chivas USA,0
+2006,2006-08-12,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2006,2006-08-12,Houston Dynamo,1,0,FC Dallas,0
+2006,2006-08-12,Sporting Kansas City,4,0,Columbus Crew,0
+2006,2006-08-16,Chicago Fire,3,0,Sporting Kansas City,0
+2006,2006-08-16,Columbus Crew,1,2,Real Salt Lake,0
+2006,2006-08-16,New York Red Bulls,0,0,DC United,0
+2006,2006-08-19,Chivas USA,1,1,Sporting Kansas City,0
+2006,2006-08-19,Columbus Crew,1,0,New York Red Bulls,0
+2006,2006-08-19,Real Salt Lake,3,1,Houston Dynamo,0
+2006,2006-08-19,DC United,1,1,Colorado Rapids,0
+2006,2006-08-20,Los Angeles Galaxy,2,0,FC Dallas,0
+2006,2006-08-20,New England Revolution,0,1,Chicago Fire,0
+2006,2006-08-26,Chicago Fire,1,0,Colorado Rapids,0
+2006,2006-08-26,Chivas USA,3,2,Houston Dynamo,0
+2006,2006-08-26,DC United,2,5,Los Angeles Galaxy,0
+2006,2006-08-26,New York Red Bulls,6,0,Real Salt Lake,0
+2006,2006-08-27,New England Revolution,1,0,Columbus Crew,0
+2006,2006-08-27,Sporting Kansas City,1,0,FC Dallas,0
+2006,2006-08-30,Chicago Fire,2,2,Houston Dynamo,0
+2006,2006-08-30,Colorado Rapids,0,2,FC Dallas,0
+2006,2006-08-30,Real Salt Lake,1,0,Los Angeles Galaxy,0
+2006,2006-08-30,Sporting Kansas City,2,2,New York Red Bulls,0
+2006,2006-09-02,Columbus Crew,3,0,New England Revolution,0
+2006,2006-09-02,FC Dallas,1,0,Houston Dynamo,0
+2006,2006-09-02,Los Angeles Galaxy,2,1,Sporting Kansas City,0
+2006,2006-09-02,Real Salt Lake,0,1,Colorado Rapids,0
+2006,2006-09-03,Chicago Fire,2,1,New York Red Bulls,0
+2006,2006-09-03,Chivas USA,1,2,DC United,0
+2006,2006-09-09,Chivas USA,1,1,FC Dallas,0
+2006,2006-09-09,Columbus Crew,1,2,Chicago Fire,0
+2006,2006-09-09,DC United,1,1,Real Salt Lake,0
+2006,2006-09-09,New England Revolution,1,0,New York Red Bulls,0
+2006,2006-09-09,Sporting Kansas City,4,1,Colorado Rapids,0
+2006,2006-09-10,Los Angeles Galaxy,1,2,Houston Dynamo,0
+2006,2006-09-13,Colorado Rapids,1,0,Chicago Fire,0
+2006,2006-09-13,FC Dallas,0,1,Chivas USA,0
+2006,2006-09-13,New England Revolution,1,1,DC United,0
+2006,2006-09-16,Los Angeles Galaxy,0,0,Colorado Rapids,0
+2006,2006-09-16,New York Red Bulls,1,0,Columbus Crew,0
+2006,2006-09-16,Real Salt Lake,3,2,FC Dallas,0
+2006,2006-09-17,Houston Dynamo,0,0,Chivas USA,0
+2006,2006-09-17,Chicago Fire,1,0,DC United,0
+2006,2006-09-20,New York Red Bulls,0,2,New England Revolution,0
+2006,2006-09-23,Chicago Fire,2,1,Los Angeles Galaxy,0
+2006,2006-09-23,Chivas USA,1,0,Colorado Rapids,0
+2006,2006-09-23,Columbus Crew,1,1,Houston Dynamo,0
+2006,2006-09-23,DC United,4,3,New York Red Bulls,0
+2006,2006-09-23,FC Dallas,2,1,Real Salt Lake,0
+2006,2006-09-23,New England Revolution,1,1,Sporting Kansas City,0
+2006,2006-09-30,Columbus Crew,3,1,FC Dallas,0
+2006,2006-09-30,Houston Dynamo,1,0,DC United,0
+2006,2006-09-30,Los Angeles Galaxy,3,0,Chivas USA,0
+2006,2006-09-30,New England Revolution,3,1,Colorado Rapids,0
+2006,2006-09-30,New York Red Bulls,1,0,Chicago Fire,0
+2006,2006-09-30,Sporting Kansas City,3,3,Real Salt Lake,0
+2006,2006-10-07,Chicago Fire,1,4,Columbus Crew,0
+2006,2006-10-07,Colorado Rapids,1,1,New York Red Bulls,0
+2006,2006-10-07,DC United,1,2,New England Revolution,0
+2006,2006-10-07,FC Dallas,2,1,Los Angeles Galaxy,0
+2006,2006-10-07,Real Salt Lake,1,1,Houston Dynamo,0
+2006,2006-10-07,Sporting Kansas City,2,1,Chivas USA,0
+2006,2006-10-14,Houston Dynamo,3,3,Colorado Rapids,0
+2006,2006-10-14,Los Angeles Galaxy,5,2,FC Dallas,0
+2006,2006-10-14,New England Revolution,1,0,Columbus Crew,0
+2006,2006-10-14,New York Red Bulls,3,2,Sporting Kansas City,0
+2006,2006-10-15,Chivas USA,1,1,Real Salt Lake,0
+2006,2006-10-15,DC United,2,3,Chicago Fire,0
+2006,2006-10-21,Colorado Rapids,1,2,FC Dallas,0
+2006,2006-10-21,New York Red Bulls,0,1,DC United,0
+2006,2006-10-22,Chivas USA,2,1,Houston Dynamo,0
+2006,2006-10-22,Chicago Fire,1,0,New England Revolution,0
+2006,2006-10-28,FC Dallas,1,2,Colorado Rapids,0
+2006,2006-10-28,New England Revolution,2,1,Chicago Fire,0
+2006,2006-10-29,DC United,1,1,New York Red Bulls,0
+2006,2006-10-29,Houston Dynamo,2,0,Chivas USA,0
+2006,2006-11-05,Houston Dynamo,3,1,Colorado Rapids,0
+2006,2006-11-05,DC United,0,1,New England Revolution,0
+2006,2006-11-12,Houston Dynamo,2,1,New England Revolution,1
+2007,2007-04-07,Chicago Fire,1,0,New England Revolution,0
+2007,2007-04-07,Chivas USA,2,0,Toronto FC,0
+2007,2007-04-07,Columbus Crew,0,0,New York Red Bulls,0
+2007,2007-04-07,Real Salt Lake,2,2,FC Dallas,0
+2007,2007-04-07,Colorado Rapids,2,1,DC United,0
+2007,2007-04-08,Houston Dynamo,0,0,Los Angeles Galaxy,0
+2007,2007-04-12,Los Angeles Galaxy,1,2,FC Dallas,0
+2007,2007-04-14,DC United,2,4,Sporting Kansas City,0
+2007,2007-04-14,Houston Dynamo,1,0,Chivas USA,0
+2007,2007-04-14,New England Revolution,4,0,Toronto FC,0
+2007,2007-04-14,Real Salt Lake,0,0,Columbus Crew,0
+2007,2007-04-15,Colorado Rapids,1,1,Chicago Fire,0
+2007,2007-04-15,New York Red Bulls,3,0,FC Dallas,0
+2007,2007-04-19,Columbus Crew,2,2,New England Revolution,0
+2007,2007-04-21,Chicago Fire,2,1,Sporting Kansas City,0
+2007,2007-04-21,Chivas USA,4,0,Real Salt Lake,0
+2007,2007-04-21,New York Red Bulls,1,0,Houston Dynamo,0
+2007,2007-04-22,FC Dallas,3,1,Colorado Rapids,0
+2007,2007-04-25,Sporting Kansas City,3,0,Toronto FC,0
+2007,2007-04-26,FC Dallas,0,1,New York Red Bulls,0
+2007,2007-04-28,Columbus Crew,1,0,DC United,0
+2007,2007-04-28,Los Angeles Galaxy,3,1,Chivas USA,0
+2007,2007-04-28,Toronto FC,0,1,Sporting Kansas City,0
+2007,2007-04-29,Houston Dynamo,0,1,Chicago Fire,0
+2007,2007-04-29,FC Dallas,0,1,New England Revolution,0
+2007,2007-04-30,Real Salt Lake,0,2,Colorado Rapids,0
+2007,2007-05-03,DC United,1,1,New England Revolution,0
+2007,2007-05-05,Colorado Rapids,1,3,Houston Dynamo,0
+2007,2007-05-05,Real Salt Lake,3,3,New York Red Bulls,0
+2007,2007-05-05,Sporting Kansas City,1,0,Columbus Crew,0
+2007,2007-05-06,New England Revolution,3,1,Chicago Fire,0
+2007,2007-05-06,DC United,2,1,Chivas USA,0
+2007,2007-05-10,Colorado Rapids,1,1,Real Salt Lake,0
+2007,2007-05-12,Columbus Crew,1,1,Chivas USA,0
+2007,2007-05-12,Los Angeles Galaxy,2,3,New England Revolution,0
+2007,2007-05-12,Sporting Kansas City,1,2,FC Dallas,0
+2007,2007-05-12,Toronto FC,3,1,Chicago Fire,0
+2007,2007-05-13,New York Red Bulls,0,1,Colorado Rapids,0
+2007,2007-05-16,Toronto FC,1,0,Houston Dynamo,0
+2007,2007-05-17,Chicago Fire,1,2,FC Dallas,0
+2007,2007-05-19,Colorado Rapids,1,1,Sporting Kansas City,0
+2007,2007-05-19,Houston Dynamo,0,1,New England Revolution,0
+2007,2007-05-19,New York Red Bulls,4,0,Columbus Crew,0
+2007,2007-05-19,Toronto FC,1,2,DC United,0
+2007,2007-05-20,FC Dallas,2,1,Real Salt Lake,0
+2007,2007-05-20,Chivas USA,1,1,Los Angeles Galaxy,0
+2007,2007-05-24,New York Red Bulls,3,0,Chicago Fire,0
+2007,2007-05-26,Chivas USA,2,0,FC Dallas,0
+2007,2007-05-26,Colorado Rapids,1,0,Los Angeles Galaxy,0
+2007,2007-05-26,Columbus Crew,2,2,Toronto FC,0
+2007,2007-05-26,DC United,2,1,Houston Dynamo,0
+2007,2007-05-26,New England Revolution,3,4,Sporting Kansas City,0
+2007,2007-05-27,Chicago Fire,0,0,Real Salt Lake,0
+2007,2007-06-02,Los Angeles Galaxy,0,0,DC United,0
+2007,2007-06-02,New England Revolution,0,0,Real Salt Lake,0
+2007,2007-06-02,Sporting Kansas City,3,2,New York Red Bulls,0
+2007,2007-06-02,Toronto FC,2,1,Colorado Rapids,0
+2007,2007-06-03,Chicago Fire,3,2,Columbus Crew,0
+2007,2007-06-03,Houston Dynamo,2,1,FC Dallas,0
+2007,2007-06-06,Toronto FC,1,2,New York Red Bulls,0
+2007,2007-06-07,Houston Dynamo,2,1,Colorado Rapids,0
+2007,2007-06-09,Chicago Fire,0,1,Chivas USA,0
+2007,2007-06-09,FC Dallas,3,1,Los Angeles Galaxy,0
+2007,2007-06-10,Columbus Crew,1,2,Houston Dynamo,0
+2007,2007-06-10,DC United,4,2,New York Red Bulls,0
+2007,2007-06-14,Real Salt Lake,0,1,FC Dallas,0
+2007,2007-06-16,Chivas USA,2,0,Colorado Rapids,0
+2007,2007-06-16,DC United,3,1,Chicago Fire,0
+2007,2007-06-16,New England Revolution,3,3,Columbus Crew,0
+2007,2007-06-16,New York Red Bulls,3,3,Sporting Kansas City,0
+2007,2007-06-17,Los Angeles Galaxy,3,2,Real Salt Lake,0
+2007,2007-06-17,Toronto FC,4,0,FC Dallas,0
+2007,2007-06-20,Columbus Crew,2,1,Sporting Kansas City,0
+2007,2007-06-21,Houston Dynamo,4,0,Chivas USA,0
+2007,2007-06-23,Colorado Rapids,0,1,FC Dallas,0
+2007,2007-06-23,Los Angeles Galaxy,2,3,Columbus Crew,0
+2007,2007-06-23,New England Revolution,3,0,Toronto FC,0
+2007,2007-06-23,Real Salt Lake,2,1,DC United,0
+2007,2007-06-24,Sporting Kansas City,0,1,Houston Dynamo,0
+2007,2007-06-28,DC United,4,1,Colorado Rapids,0
+2007,2007-06-30,Chivas USA,2,0,New England Revolution,0
+2007,2007-06-30,Columbus Crew,1,0,New York Red Bulls,0
+2007,2007-06-30,FC Dallas,0,0,Houston Dynamo,0
+2007,2007-07-01,Chicago Fire,0,0,Colorado Rapids,0
+2007,2007-07-01,Sporting Kansas City,1,1,Toronto FC,0
+2007,2007-07-04,Colorado Rapids,0,0,Columbus Crew,0
+2007,2007-07-04,FC Dallas,2,0,Chivas USA,0
+2007,2007-07-04,Los Angeles Galaxy,2,0,Chicago Fire,0
+2007,2007-07-04,Real Salt Lake,1,2,Toronto FC,0
+2007,2007-07-04,Sporting Kansas City,0,1,DC United,0
+2007,2007-07-05,Houston Dynamo,4,0,New York Red Bulls,0
+2007,2007-07-07,Chicago Fire,1,1,Toronto FC,0
+2007,2007-07-07,Columbus Crew,2,0,Real Salt Lake,0
+2007,2007-07-07,Los Angeles Galaxy,2,2,Sporting Kansas City,0
+2007,2007-07-07,New England Revolution,1,1,Chivas USA,0
+2007,2007-07-08,Colorado Rapids,0,1,New York Red Bulls,0
+2007,2007-07-08,Houston Dynamo,1,0,DC United,0
+2007,2007-07-12,Chicago Fire,0,4,Houston Dynamo,0
+2007,2007-07-14,Chivas USA,2,1,Columbus Crew,0
+2007,2007-07-14,DC United,3,3,FC Dallas,0
+2007,2007-07-14,New York Red Bulls,0,1,New England Revolution,0
+2007,2007-07-14,Sporting Kansas City,1,0,Real Salt Lake,0
+2007,2007-07-15,Houston Dynamo,0,0,Toronto FC,0
+2007,2007-07-22,Sporting Kansas City,2,2,Colorado Rapids,0
+2007,2007-07-22,Columbus Crew,2,0,Toronto FC,0
+2007,2007-07-22,New York Red Bulls,1,0,DC United,0
+2007,2007-07-22,New England Revolution,3,3,Houston Dynamo,0
+2007,2007-07-26,New York Red Bulls,0,2,Chivas USA,0
+2007,2007-07-28,Real Salt Lake,1,2,New England Revolution,0
+2007,2007-07-29,Sporting Kansas City,3,2,Chivas USA,0
+2007,2007-07-29,Toronto FC,0,3,Chicago Fire,0
+2007,2007-08-02,New England Revolution,2,0,Sporting Kansas City,0
+2007,2007-08-04,Chicago Fire,0,0,Columbus Crew,0
+2007,2007-08-04,FC Dallas,1,0,Colorado Rapids,0
+2007,2007-08-04,Real Salt Lake,1,0,Houston Dynamo,0
+2007,2007-08-05,Toronto FC,0,0,Los Angeles Galaxy,0
+2007,2007-08-05,New England Revolution,0,3,DC United,0
+2007,2007-08-09,DC United,1,0,Los Angeles Galaxy,0
+2007,2007-08-11,Colorado Rapids,1,0,Houston Dynamo,0
+2007,2007-08-11,FC Dallas,3,2,Columbus Crew,0
+2007,2007-08-12,New England Revolution,1,0,Los Angeles Galaxy,0
+2007,2007-08-12,New York Red Bulls,3,0,Toronto FC,0
+2007,2007-08-16,Colorado Rapids,3,0,New England Revolution,0
+2007,2007-08-18,Columbus Crew,0,2,DC United,0
+2007,2007-08-18,New York Red Bulls,5,4,Los Angeles Galaxy,0
+2007,2007-08-18,Real Salt Lake,0,2,Chicago Fire,0
+2007,2007-08-18,Toronto FC,0,2,Chivas USA,0
+2007,2007-08-19,Houston Dynamo,1,0,FC Dallas,0
+2007,2007-08-19,Sporting Kansas City,0,1,New England Revolution,0
+2007,2007-08-22,DC United,3,1,New York Red Bulls,0
+2007,2007-08-22,Sporting Kansas City,3,2,Chicago Fire,0
+2007,2007-08-23,Los Angeles Galaxy,0,3,Chivas USA,0
+2007,2007-08-25,Chicago Fire,2,0,Sporting Kansas City,0
+2007,2007-08-25,Houston Dynamo,1,1,Columbus Crew,0
+2007,2007-08-25,New England Revolution,2,1,New York Red Bulls,0
+2007,2007-08-25,Toronto FC,0,1,DC United,0
+2007,2007-08-26,Chivas USA,1,0,Real Salt Lake,0
+2007,2007-08-26,Colorado Rapids,3,0,Los Angeles Galaxy,0
+2007,2007-08-29,Real Salt Lake,3,1,Sporting Kansas City,0
+2007,2007-09-01,FC Dallas,0,4,DC United,0
+2007,2007-09-01,Houston Dynamo,1,1,Sporting Kansas City,0
+2007,2007-09-01,Los Angeles Galaxy,1,2,Real Salt Lake,0
+2007,2007-09-01,New York Red Bulls,1,0,Chicago Fire,0
+2007,2007-09-02,Columbus Crew,1,1,Colorado Rapids,0
+2007,2007-09-06,Chivas USA,2,2,DC United,0
+2007,2007-09-08,Columbus Crew,0,1,Chicago Fire,0
+2007,2007-09-08,FC Dallas,2,0,Toronto FC,0
+2007,2007-09-08,Houston Dynamo,4,3,Real Salt Lake,0
+2007,2007-09-08,Los Angeles Galaxy,3,1,Colorado Rapids,0
+2007,2007-09-09,Chivas USA,3,0,New York Red Bulls,0
+2007,2007-09-09,DC United,4,2,New England Revolution,0
+2007,2007-09-12,DC United,2,1,Real Salt Lake,0
+2007,2007-09-13,Chivas USA,3,0,Los Angeles Galaxy,0
+2007,2007-09-15,Chicago Fire,2,2,New York Red Bulls,0
+2007,2007-09-15,New England Revolution,4,2,FC Dallas,0
+2007,2007-09-15,Sporting Kansas City,3,2,Columbus Crew,0
+2007,2007-09-15,Toronto FC,0,0,Real Salt Lake,0
+2007,2007-09-16,Los Angeles Galaxy,1,3,Houston Dynamo,0
+2007,2007-09-16,Colorado Rapids,1,1,Chivas USA,0
+2007,2007-09-19,Real Salt Lake,2,2,Los Angeles Galaxy,0
+2007,2007-09-20,FC Dallas,1,1,Chicago Fire,0
+2007,2007-09-22,Chivas USA,2,1,Sporting Kansas City,0
+2007,2007-09-22,New York Red Bulls,2,2,New England Revolution,0
+2007,2007-09-22,Real Salt Lake,1,0,Colorado Rapids,0
+2007,2007-09-22,Toronto FC,1,2,Columbus Crew,0
+2007,2007-09-23,Los Angeles Galaxy,2,1,FC Dallas,0
+2007,2007-09-23,Chicago Fire,1,1,DC United,0
+2007,2007-09-27,Sporting Kansas City,0,1,Los Angeles Galaxy,0
+2007,2007-09-29,Chivas USA,1,1,Chicago Fire,0
+2007,2007-09-29,DC United,4,1,Toronto FC,0
+2007,2007-09-29,New England Revolution,1,0,Colorado Rapids,0
+2007,2007-09-29,New York Red Bulls,2,2,Real Salt Lake,0
+2007,2007-09-30,Columbus Crew,1,2,Los Angeles Galaxy,0
+2007,2007-09-30,FC Dallas,0,3,Houston Dynamo,0
+2007,2007-10-04,Toronto FC,2,1,New York Red Bulls,0
+2007,2007-10-05,Sporting Kansas City,1,1,DC United,0
+2007,2007-10-06,Chicago Fire,2,1,New England Revolution,0
+2007,2007-10-06,Columbus Crew,1,3,FC Dallas,0
+2007,2007-10-06,Real Salt Lake,2,3,Chivas USA,0
+2007,2007-10-07,Colorado Rapids,1,0,Toronto FC,0
+2007,2007-10-07,Houston Dynamo,1,2,Los Angeles Galaxy,0
+2007,2007-10-11,FC Dallas,0,0,Chivas USA,0
+2007,2007-10-13,DC United,0,0,Chicago Fire,0
+2007,2007-10-13,Los Angeles Galaxy,2,1,Toronto FC,0
+2007,2007-10-13,New England Revolution,2,3,Columbus Crew,0
+2007,2007-10-13,New York Red Bulls,2,1,Sporting Kansas City,0
+2007,2007-10-14,Chivas USA,1,2,Colorado Rapids,0
+2007,2007-10-15,Real Salt Lake,0,1,Houston Dynamo,0
+2007,2007-10-18,Los Angeles Galaxy,1,1,New York Red Bulls,0
+2007,2007-10-20,Chivas USA,0,0,Houston Dynamo,0
+2007,2007-10-20,Colorado Rapids,0,1,Real Salt Lake,0
+2007,2007-10-20,FC Dallas,0,2,Sporting Kansas City,0
+2007,2007-10-20,DC United,2,3,Columbus Crew,0
+2007,2007-10-20,Toronto FC,2,2,New England Revolution,0
+2007,2007-10-21,Chicago Fire,1,0,Los Angeles Galaxy,0
+2007,2007-10-25,Chicago Fire,1,0,DC United,0
+2007,2007-10-27,FC Dallas,1,0,Houston Dynamo,0
+2007,2007-10-27,Sporting Kansas City,1,0,Chivas USA,0
+2007,2007-10-27,New York Red Bulls,0,0,New England Revolution,0
+2007,2007-11-01,DC United,2,2,Chicago Fire,0
+2007,2007-11-02,Houston Dynamo,2,1,FC Dallas,0
+2007,2007-11-03,Chivas USA,0,0,Sporting Kansas City,0
+2007,2007-11-03,New England Revolution,1,0,New York Red Bulls,0
+2007,2007-11-08,New England Revolution,1,0,Chicago Fire,0
+2007,2007-11-10,Houston Dynamo,2,0,Sporting Kansas City,0
+2007,2007-11-18,New England Revolution,1,2,Houston Dynamo,0
+2008,2008-03-29,Colorado Rapids,4,0,Los Angeles Galaxy,0
+2008,2008-03-29,Sporting Kansas City,2,0,DC United,0
+2008,2008-03-29,New England Revolution,3,0,Houston Dynamo,0
+2008,2008-03-29,Real Salt Lake,1,1,Chicago Fire,0
+2008,2008-03-29,Columbus Crew,2,0,Toronto FC,0
+2008,2008-03-30,FC Dallas,1,1,Chivas USA,0
+2008,2008-04-03,Los Angeles Galaxy,2,0,San Jose Earthquakes,0
+2008,2008-04-03,Chicago Fire,4,0,New England Revolution,0
+2008,2008-04-05,Chivas USA,3,1,Real Salt Lake,0
+2008,2008-04-05,Sporting Kansas City,3,2,Colorado Rapids,0
+2008,2008-04-05,DC United,4,1,Toronto FC,0
+2008,2008-04-05,New York Red Bulls,2,0,Columbus Crew,0
+2008,2008-04-06,Houston Dynamo,3,3,FC Dallas,0
+2008,2008-04-09,Sporting Kansas City,1,3,New England Revolution,0
+2008,2008-04-12,Real Salt Lake,4,0,DC United,0
+2008,2008-04-12,FC Dallas,2,0,New York Red Bulls,0
+2008,2008-04-12,Sporting Kansas City,0,0,Houston Dynamo,0
+2008,2008-04-12,Columbus Crew,4,3,Chivas USA,0
+2008,2008-04-12,New England Revolution,0,1,Colorado Rapids,0
+2008,2008-04-12,San Jose Earthquakes,0,1,Chicago Fire,0
+2008,2008-04-13,Los Angeles Galaxy,2,3,Toronto FC,0
+2008,2008-04-17,DC United,1,2,Columbus Crew,0
+2008,2008-04-19,Los Angeles Galaxy,2,2,Houston Dynamo,0
+2008,2008-04-19,Colorado Rapids,0,2,San Jose Earthquakes,0
+2008,2008-04-19,New York Red Bulls,1,1,New England Revolution,0
+2008,2008-04-19,Toronto FC,1,0,Real Salt Lake,0
+2008,2008-04-20,Chivas USA,0,2,FC Dallas,0
+2008,2008-04-20,Chicago Fire,0,1,Sporting Kansas City,0
+2008,2008-04-24,FC Dallas,0,1,New England Revolution,0
+2008,2008-04-26,Los Angeles Galaxy,5,2,Chivas USA,0
+2008,2008-04-26,Chicago Fire,2,1,Colorado Rapids,0
+2008,2008-04-26,Columbus Crew,1,0,Houston Dynamo,0
+2008,2008-04-26,DC United,4,1,Real Salt Lake,0
+2008,2008-04-26,Toronto FC,2,0,Sporting Kansas City,0
+2008,2008-04-27,New York Red Bulls,2,0,San Jose Earthquakes,0
+2008,2008-05-01,Toronto FC,1,1,New York Red Bulls,0
+2008,2008-05-03,San Jose Earthquakes,0,0,FC Dallas,0
+2008,2008-05-03,Real Salt Lake,2,2,Los Angeles Galaxy,0
+2008,2008-05-03,Houston Dynamo,0,0,Chivas USA,0
+2008,2008-05-03,Columbus Crew,2,1,Sporting Kansas City,0
+2008,2008-05-03,New England Revolution,0,3,Chicago Fire,0
+2008,2008-05-04,Colorado Rapids,2,0,DC United,0
+2008,2008-05-08,DC United,0,2,Chicago Fire,0
+2008,2008-05-10,Los Angeles Galaxy,1,2,New York Red Bulls,0
+2008,2008-05-10,San Jose Earthquakes,2,3,Columbus Crew,0
+2008,2008-05-10,Real Salt Lake,2,1,FC Dallas,0
+2008,2008-05-10,Houston Dynamo,2,1,Colorado Rapids,0
+2008,2008-05-11,Chivas USA,1,2,New England Revolution,0
+2008,2008-05-15,Colorado Rapids,2,0,Real Salt Lake,0
+2008,2008-05-17,Chivas USA,3,1,DC United,0
+2008,2008-05-17,Chicago Fire,1,2,Houston Dynamo,0
+2008,2008-05-17,New England Revolution,2,0,San Jose Earthquakes,0
+2008,2008-05-17,New York Red Bulls,1,1,Sporting Kansas City,0
+2008,2008-05-17,Toronto FC,0,0,Columbus Crew,0
+2008,2008-05-18,FC Dallas,1,5,Los Angeles Galaxy,0
+2008,2008-05-21,Toronto FC,1,0,DC United,0
+2008,2008-05-22,San Jose Earthquakes,2,1,Houston Dynamo,0
+2008,2008-05-24,Los Angeles Galaxy,3,1,Sporting Kansas City,0
+2008,2008-05-24,Colorado Rapids,1,2,Chivas USA,0
+2008,2008-05-24,FC Dallas,2,1,Real Salt Lake,0
+2008,2008-05-24,Columbus Crew,0,1,New England Revolution,0
+2008,2008-05-24,DC United,3,2,Toronto FC,0
+2008,2008-05-25,New York Red Bulls,1,5,Chicago Fire,0
+2008,2008-05-28,FC Dallas,2,2,Houston Dynamo,0
+2008,2008-05-29,New England Revolution,2,2,DC United,0
+2008,2008-05-31,Chivas USA,2,0,Columbus Crew,0
+2008,2008-05-31,Real Salt Lake,3,1,San Jose Earthquakes,0
+2008,2008-05-31,Houston Dynamo,1,0,New York Red Bulls,0
+2008,2008-05-31,Toronto FC,2,0,Los Angeles Galaxy,0
+2008,2008-06-01,Colorado Rapids,2,1,FC Dallas,0
+2008,2008-06-05,New York Red Bulls,1,0,Chivas USA,0
+2008,2008-06-06,New England Revolution,2,1,FC Dallas,0
+2008,2008-06-07,Los Angeles Galaxy,3,2,Colorado Rapids,0
+2008,2008-06-07,Real Salt Lake,0,0,Sporting Kansas City,0
+2008,2008-06-07,Chicago Fire,1,2,DC United,0
+2008,2008-06-07,Columbus Crew,0,2,San Jose Earthquakes,0
+2008,2008-06-08,Houston Dynamo,3,1,Toronto FC,0
+2008,2008-06-12,Houston Dynamo,0,2,New England Revolution,0
+2008,2008-06-14,Chivas USA,0,1,Real Salt Lake,0
+2008,2008-06-14,San Jose Earthquakes,0,3,Los Angeles Galaxy,0
+2008,2008-06-14,Sporting Kansas City,0,3,Columbus Crew,0
+2008,2008-06-14,DC United,4,1,New York Red Bulls,0
+2008,2008-06-14,Toronto FC,3,1,Colorado Rapids,0
+2008,2008-06-15,FC Dallas,1,0,Chicago Fire,0
+2008,2008-06-18,Real Salt Lake,0,0,San Jose Earthquakes,0
+2008,2008-06-18,New England Revolution,1,1,New York Red Bulls,0
+2008,2008-06-19,Chivas USA,2,0,Chicago Fire,0
+2008,2008-06-21,Los Angeles Galaxy,3,3,Columbus Crew,0
+2008,2008-06-21,Colorado Rapids,0,0,Houston Dynamo,0
+2008,2008-06-21,Real Salt Lake,2,1,New England Revolution,0
+2008,2008-06-21,New York Red Bulls,1,0,FC Dallas,0
+2008,2008-06-21,Toronto FC,0,0,Sporting Kansas City,0
+2008,2008-06-22,DC United,3,1,San Jose Earthquakes,0
+2008,2008-06-26,Houston Dynamo,1,1,FC Dallas,0
+2008,2008-06-28,Chivas USA,1,1,New York Red Bulls,0
+2008,2008-06-28,Chicago Fire,0,0,San Jose Earthquakes,0
+2008,2008-06-28,Sporting Kansas City,1,0,Real Salt Lake,0
+2008,2008-06-28,Columbus Crew,2,1,Colorado Rapids,0
+2008,2008-06-28,New England Revolution,2,1,Toronto FC,0
+2008,2008-06-29,DC United,4,1,Los Angeles Galaxy,0
+2008,2008-07-03,Real Salt Lake,0,0,Houston Dynamo,0
+2008,2008-07-04,Los Angeles Galaxy,1,2,New England Revolution,0
+2008,2008-07-04,Colorado Rapids,4,0,New York Red Bulls,0
+2008,2008-07-04,FC Dallas,1,1,Sporting Kansas City,0
+2008,2008-07-05,Chivas USA,1,0,San Jose Earthquakes,0
+2008,2008-07-05,Columbus Crew,2,2,Chicago Fire,0
+2008,2008-07-10,Los Angeles Galaxy,1,1,Chivas USA,0
+2008,2008-07-10,Sporting Kansas City,2,1,New York Red Bulls,0
+2008,2008-07-12,Real Salt Lake,2,0,Columbus Crew,0
+2008,2008-07-12,Chicago Fire,2,1,Toronto FC,0
+2008,2008-07-12,San Jose Earthquakes,1,1,Colorado Rapids,0
+2008,2008-07-17,Columbus Crew,3,3,Sporting Kansas City,0
+2008,2008-07-19,Chicago Fire,0,0,Real Salt Lake,0
+2008,2008-07-19,FC Dallas,2,2,Colorado Rapids,0
+2008,2008-07-19,New York Red Bulls,2,2,Los Angeles Galaxy,0
+2008,2008-07-19,Toronto FC,0,0,San Jose Earthquakes,0
+2008,2008-07-23,DC United,0,2,Houston Dynamo,0
+2008,2008-07-27,Colorado Rapids,0,2,Columbus Crew,0
+2008,2008-07-27,Sporting Kansas City,0,0,Chicago Fire,0
+2008,2008-07-27,FC Dallas,4,0,Los Angeles Galaxy,0
+2008,2008-07-27,San Jose Earthquakes,1,1,New York Red Bulls,0
+2008,2008-07-28,Real Salt Lake,2,1,Toronto FC,0
+2008,2008-08-02,Chicago Fire,1,0,Chivas USA,0
+2008,2008-08-02,Houston Dynamo,2,0,Columbus Crew,0
+2008,2008-08-02,DC United,2,0,Sporting Kansas City,0
+2008,2008-08-03,Toronto FC,0,2,FC Dallas,0
+2008,2008-08-03,San Jose Earthquakes,3,2,Los Angeles Galaxy,0
+2008,2008-08-09,Sporting Kansas City,3,2,Chivas USA,0
+2008,2008-08-09,New England Revolution,1,2,Chicago Fire,0
+2008,2008-08-09,Colorado Rapids,0,1,Toronto FC,0
+2008,2008-08-10,New York Red Bulls,4,1,DC United,0
+2008,2008-08-14,Chivas USA,2,2,Los Angeles Galaxy,0
+2008,2008-08-16,San Jose Earthquakes,4,0,New England Revolution,0
+2008,2008-08-16,Colorado Rapids,2,1,Sporting Kansas City,0
+2008,2008-08-16,Chicago Fire,0,1,DC United,0
+2008,2008-08-16,Houston Dynamo,4,3,Real Salt Lake,0
+2008,2008-08-16,Columbus Crew,2,1,FC Dallas,0
+2008,2008-08-17,New York Red Bulls,2,0,Toronto FC,0
+2008,2008-08-20,Houston Dynamo,4,0,Chivas USA,0
+2008,2008-08-20,New England Revolution,2,1,DC United,0
+2008,2008-08-21,Los Angeles Galaxy,0,1,Chicago Fire,0
+2008,2008-08-23,Chivas USA,0,0,San Jose Earthquakes,0
+2008,2008-08-23,Sporting Kansas City,1,1,FC Dallas,0
+2008,2008-08-23,Columbus Crew,3,0,Real Salt Lake,0
+2008,2008-08-23,DC United,3,0,Colorado Rapids,0
+2008,2008-08-23,Toronto FC,1,1,New England Revolution,0
+2008,2008-08-24,New York Red Bulls,3,0,Houston Dynamo,0
+2008,2008-08-29,Real Salt Lake,2,0,Colorado Rapids,0
+2008,2008-08-30,Chivas USA,2,1,Toronto FC,0
+2008,2008-08-30,San Jose Earthquakes,2,1,Sporting Kansas City,0
+2008,2008-08-30,FC Dallas,1,2,Columbus Crew,0
+2008,2008-08-30,DC United,0,0,New York Red Bulls,0
+2008,2008-08-30,New England Revolution,2,2,Los Angeles Galaxy,0
+2008,2008-08-31,Houston Dynamo,2,1,Chicago Fire,0
+2008,2008-09-04,FC Dallas,0,1,Colorado Rapids,0
+2008,2008-09-06,Los Angeles Galaxy,2,2,Real Salt Lake,0
+2008,2008-09-06,San Jose Earthquakes,2,1,DC United,0
+2008,2008-09-06,Chicago Fire,1,0,New York Red Bulls,0
+2008,2008-09-06,Columbus Crew,4,0,New England Revolution,0
+2008,2008-09-06,Toronto FC,1,3,Chivas USA,0
+2008,2008-09-07,Houston Dynamo,3,1,Sporting Kansas City,0
+2008,2008-09-11,New England Revolution,4,0,Chivas USA,0
+2008,2008-09-13,San Jose Earthquakes,1,1,Houston Dynamo,0
+2008,2008-09-13,DC United,2,2,FC Dallas,0
+2008,2008-09-13,New York Red Bulls,2,1,Real Salt Lake,0
+2008,2008-09-13,Sporting Kansas City,2,0,Los Angeles Galaxy,0
+2008,2008-09-13,Toronto FC,1,1,Columbus Crew,0
+2008,2008-09-14,Colorado Rapids,2,0,Chicago Fire,0
+2008,2008-09-18,Columbus Crew,3,1,New York Red Bulls,0
+2008,2008-09-20,Los Angeles Galaxy,5,2,DC United,0
+2008,2008-09-20,Colorado Rapids,1,1,New England Revolution,0
+2008,2008-09-20,Real Salt Lake,0,1,Chivas USA,0
+2008,2008-09-20,Sporting Kansas City,2,0,Toronto FC,0
+2008,2008-09-21,Chicago Fire,1,4,FC Dallas,0
+2008,2008-09-25,Chicago Fire,3,1,Los Angeles Galaxy,0
+2008,2008-09-27,Chivas USA,2,1,Sporting Kansas City,0
+2008,2008-09-27,San Jose Earthquakes,2,3,Real Salt Lake,0
+2008,2008-09-27,New England Revolution,0,1,Columbus Crew,0
+2008,2008-09-27,New York Red Bulls,4,5,Colorado Rapids,0
+2008,2008-09-27,Toronto FC,1,1,Houston Dynamo,0
+2008,2008-09-28,FC Dallas,3,0,DC United,0
+2008,2008-10-02,FC Dallas,1,1,San Jose Earthquakes,0
+2008,2008-10-04,Colorado Rapids,1,3,Houston Dynamo,0
+2008,2008-10-04,Columbus Crew,1,0,Los Angeles Galaxy,0
+2008,2008-10-04,DC United,0,3,Chivas USA,0
+2008,2008-10-04,New England Revolution,2,2,Real Salt Lake,0
+2008,2008-10-04,New York Red Bulls,1,3,Toronto FC,0
+2008,2008-10-05,Sporting Kansas City,1,1,Chicago Fire,0
+2008,2008-10-09,Real Salt Lake,1,1,New York Red Bulls,0
+2008,2008-10-11,San Jose Earthquakes,0,1,Chivas USA,0
+2008,2008-10-11,FC Dallas,2,2,Toronto FC,0
+2008,2008-10-11,Sporting Kansas City,1,0,New England Revolution,0
+2008,2008-10-12,Los Angeles Galaxy,3,2,Colorado Rapids,0
+2008,2008-10-12,Houston Dynamo,0,0,DC United,0
+2008,2008-10-12,Chicago Fire,2,2,Columbus Crew,0
+2008,2008-10-15,Houston Dynamo,2,1,San Jose Earthquakes,0
+2008,2008-10-16,DC United,2,1,New England Revolution,0
+2008,2008-10-18,Real Salt Lake,3,1,FC Dallas,0
+2008,2008-10-18,Houston Dynamo,3,0,Los Angeles Galaxy,0
+2008,2008-10-18,Sporting Kansas City,3,2,San Jose Earthquakes,0
+2008,2008-10-18,New York Red Bulls,3,1,Columbus Crew,0
+2008,2008-10-18,Toronto FC,3,2,Chicago Fire,0
+2008,2008-10-19,Chivas USA,1,2,Colorado Rapids,0
+2008,2008-10-23,Chicago Fire,5,2,New York Red Bulls,0
+2008,2008-10-25,Chivas USA,1,1,Houston Dynamo,0
+2008,2008-10-25,San Jose Earthquakes,2,0,Toronto FC,0
+2008,2008-10-25,Colorado Rapids,1,1,Real Salt Lake,0
+2008,2008-10-25,New England Revolution,1,3,Sporting Kansas City,0
+2008,2008-10-26,Columbus Crew,1,0,DC United,0
+2008,2008-10-26,Los Angeles Galaxy,2,2,FC Dallas,0
+2008,2008-10-30,New England Revolution,0,0,Chicago Fire,0
+2008,2008-11-01,Sporting Kansas City,1,1,Columbus Crew,0
+2008,2008-11-01,Real Salt Lake,1,0,Chivas USA,0
+2008,2008-11-01,New York Red Bulls,1,1,Houston Dynamo,0
+2008,2008-11-06,Chicago Fire,3,0,New England Revolution,0
+2008,2008-11-08,Chivas USA,2,2,Real Salt Lake,0
+2008,2008-11-08,Columbus Crew,2,0,Sporting Kansas City,0
+2008,2008-11-09,Houston Dynamo,0,3,New York Red Bulls,0
+2008,2008-11-13,Columbus Crew,2,1,Chicago Fire,0
+2008,2008-11-15,Real Salt Lake,0,1,New York Red Bulls,0
+2008,2008-11-23,New York Red Bulls,1,3,Columbus Crew,0
+2009,2009-03-19,Seattle Sounders,3,0,New York Red Bulls,0
+2009,2009-03-21,Chivas USA,2,1,Colorado Rapids,0
+2009,2009-03-21,San Jose Earthquakes,0,1,New England Revolution,0
+2009,2009-03-21,FC Dallas,1,3,Chicago Fire,0
+2009,2009-03-21,Sporting Kansas City,2,3,Toronto FC,0
+2009,2009-03-21,Houston Dynamo,1,1,Columbus Crew,0
+2009,2009-03-22,Los Angeles Galaxy,2,2,DC United,0
+2009,2009-03-28,San Jose Earthquakes,3,2,Houston Dynamo,0
+2009,2009-03-28,Seattle Sounders,2,0,Real Salt Lake,0
+2009,2009-03-28,Colorado Rapids,2,1,Sporting Kansas City,0
+2009,2009-03-28,DC United,1,1,Chicago Fire,0
+2009,2009-03-28,New York Red Bulls,1,1,New England Revolution,0
+2009,2009-03-28,Columbus Crew,1,1,Toronto FC,0
+2009,2009-03-29,FC Dallas,0,2,Chivas USA,0
+2009,2009-04-02,Real Salt Lake,4,1,Columbus Crew,0
+2009,2009-04-04,Los Angeles Galaxy,2,3,Colorado Rapids,0
+2009,2009-04-04,DC United,1,0,Houston Dynamo,0
+2009,2009-04-04,New England Revolution,2,1,FC Dallas,0
+2009,2009-04-04,Toronto FC,0,2,Seattle Sounders,0
+2009,2009-04-05,Chivas USA,2,1,Columbus Crew,0
+2009,2009-04-05,Chicago Fire,1,0,New York Red Bulls,0
+2009,2009-04-05,Sporting Kansas City,2,0,San Jose Earthquakes,0
+2009,2009-04-11,Los Angeles Galaxy,0,0,Chivas USA,0
+2009,2009-04-11,Seattle Sounders,0,1,Sporting Kansas City,0
+2009,2009-04-11,Houston Dynamo,0,0,New York Red Bulls,0
+2009,2009-04-11,Columbus Crew,1,1,Colorado Rapids,0
+2009,2009-04-11,Real Salt Lake,2,1,DC United,0
+2009,2009-04-11,San Jose Earthquakes,3,3,Chicago Fire,0
+2009,2009-04-11,Toronto FC,1,1,FC Dallas,0
+2009,2009-04-17,DC United,1,1,New England Revolution,0
+2009,2009-04-18,Chivas USA,2,0,Seattle Sounders,0
+2009,2009-04-18,San Jose Earthquakes,1,1,Los Angeles Galaxy,0
+2009,2009-04-18,Chicago Fire,2,2,Sporting Kansas City,0
+2009,2009-04-18,New York Red Bulls,2,0,Real Salt Lake,0
+2009,2009-04-19,FC Dallas,3,2,Toronto FC,0
+2009,2009-04-19,Houston Dynamo,1,0,Colorado Rapids,0
+2009,2009-04-22,Toronto FC,1,0,Chivas USA,0
+2009,2009-04-23,Sporting Kansas City,1,0,New York Red Bulls,0
+2009,2009-04-25,Chivas USA,2,0,FC Dallas,0
+2009,2009-04-25,Seattle Sounders,2,0,San Jose Earthquakes,0
+2009,2009-04-25,Colorado Rapids,1,1,Los Angeles Galaxy,0
+2009,2009-04-25,Real Salt Lake,6,0,New England Revolution,0
+2009,2009-04-25,Columbus Crew,2,2,Chicago Fire,0
+2009,2009-04-26,Toronto FC,1,0,Sporting Kansas City,0
+2009,2009-04-26,New York Red Bulls,2,3,DC United,0
+2009,2009-05-02,Los Angeles Galaxy,1,0,New York Red Bulls,0
+2009,2009-05-02,San Jose Earthquakes,0,1,Chivas USA,0
+2009,2009-05-02,Colorado Rapids,2,0,Real Salt Lake,0
+2009,2009-05-02,Chicago Fire,1,1,Seattle Sounders,0
+2009,2009-05-02,DC United,2,1,FC Dallas,0
+2009,2009-05-02,Toronto FC,1,1,Columbus Crew,0
+2009,2009-05-03,New England Revolution,0,2,Houston Dynamo,0
+2009,2009-05-06,Real Salt Lake,2,2,Los Angeles Galaxy,0
+2009,2009-05-06,Sporting Kansas City,1,1,DC United,0
+2009,2009-05-08,New York Red Bulls,4,1,San Jose Earthquakes,0
+2009,2009-05-09,Chivas USA,1,0,Real Salt Lake,0
+2009,2009-05-09,Houston Dynamo,1,0,FC Dallas,0
+2009,2009-05-09,Chicago Fire,1,1,New England Revolution,0
+2009,2009-05-09,DC United,3,3,Toronto FC,0
+2009,2009-05-09,Columbus Crew,3,2,Sporting Kansas City,0
+2009,2009-05-10,Seattle Sounders,1,1,Los Angeles Galaxy,0
+2009,2009-05-16,Chivas USA,2,2,DC United,0
+2009,2009-05-16,Real Salt Lake,0,2,Sporting Kansas City,0
+2009,2009-05-16,FC Dallas,1,1,Seattle Sounders,0
+2009,2009-05-16,New England Revolution,1,1,Colorado Rapids,0
+2009,2009-05-16,New York Red Bulls,1,1,Houston Dynamo,0
+2009,2009-05-16,Toronto FC,0,2,Chicago Fire,0
+2009,2009-05-17,Los Angeles Galaxy,1,1,Columbus Crew,0
+2009,2009-05-23,Colorado Rapids,2,2,Seattle Sounders,0
+2009,2009-05-23,FC Dallas,1,1,Los Angeles Galaxy,0
+2009,2009-05-23,Houston Dynamo,3,1,San Jose Earthquakes,0
+2009,2009-05-23,Sporting Kansas City,1,1,Chivas USA,0
+2009,2009-05-23,DC United,0,0,Real Salt Lake,0
+2009,2009-05-23,Toronto FC,3,1,New England Revolution,0
+2009,2009-05-24,New York Red Bulls,0,1,Chicago Fire,0
+2009,2009-05-27,Columbus Crew,2,1,San Jose Earthquakes,0
+2009,2009-05-28,Chivas USA,2,3,Chicago Fire,0
+2009,2009-05-30,Los Angeles Galaxy,1,1,Sporting Kansas City,0
+2009,2009-05-30,San Jose Earthquakes,2,1,Real Salt Lake,0
+2009,2009-05-30,Seattle Sounders,1,1,Columbus Crew,0
+2009,2009-05-30,Houston Dynamo,3,0,Toronto FC,0
+2009,2009-05-30,New England Revolution,2,1,DC United,0
+2009,2009-05-30,New York Red Bulls,2,3,Colorado Rapids,0
+2009,2009-05-31,Chicago Fire,0,3,FC Dallas,0
+2009,2009-06-04,DC United,2,0,New York Red Bulls,0
+2009,2009-06-05,Chicago Fire,0,1,Houston Dynamo,0
+2009,2009-06-06,Chivas USA,1,0,Seattle Sounders,0
+2009,2009-06-06,Real Salt Lake,1,1,Colorado Rapids,0
+2009,2009-06-06,Sporting Kansas City,0,2,Columbus Crew,0
+2009,2009-06-06,Toronto FC,1,2,Los Angeles Galaxy,0
+2009,2009-06-07,New England Revolution,4,0,New York Red Bulls,0
+2009,2009-06-07,FC Dallas,2,2,San Jose Earthquakes,0
+2009,2009-06-10,Houston Dynamo,1,0,Chivas USA,0
+2009,2009-06-13,Los Angeles Galaxy,0,2,Real Salt Lake,0
+2009,2009-06-13,Seattle Sounders,2,1,San Jose Earthquakes,0
+2009,2009-06-13,FC Dallas,1,3,Houston Dynamo,0
+2009,2009-06-13,Sporting Kansas City,3,1,New England Revolution,0
+2009,2009-06-13,Toronto FC,2,1,New York Red Bulls,0
+2009,2009-06-13,DC United,2,1,Chicago Fire,0
+2009,2009-06-14,Columbus Crew,2,1,Chivas USA,0
+2009,2009-06-17,Seattle Sounders,3,3,DC United,0
+2009,2009-06-20,Colorado Rapids,3,0,DC United,0
+2009,2009-06-20,FC Dallas,2,1,Columbus Crew,0
+2009,2009-06-20,Houston Dynamo,1,1,Real Salt Lake,0
+2009,2009-06-20,New York Red Bulls,1,1,Seattle Sounders,0
+2009,2009-06-20,San Jose Earthquakes,2,1,Los Angeles Galaxy,0
+2009,2009-06-24,Colorado Rapids,1,1,FC Dallas,0
+2009,2009-06-24,Toronto FC,2,0,New York Red Bulls,0
+2009,2009-06-27,Real Salt Lake,3,0,Toronto FC,0
+2009,2009-06-27,Columbus Crew,1,0,New York Red Bulls,0
+2009,2009-06-28,Los Angeles Galaxy,1,0,Houston Dynamo,0
+2009,2009-06-28,Seattle Sounders,3,0,Colorado Rapids,0
+2009,2009-07-03,Real Salt Lake,1,1,San Jose Earthquakes,0
+2009,2009-07-04,Los Angeles Galaxy,1,0,New England Revolution,0
+2009,2009-07-04,Colorado Rapids,1,2,Chicago Fire,0
+2009,2009-07-04,FC Dallas,2,1,New York Red Bulls,0
+2009,2009-07-04,Sporting Kansas City,0,1,Houston Dynamo,0
+2009,2009-07-04,Columbus Crew,1,1,DC United,0
+2009,2009-07-11,Chivas USA,0,1,Los Angeles Galaxy,0
+2009,2009-07-11,San Jose Earthquakes,1,3,Toronto FC,0
+2009,2009-07-11,Colorado Rapids,1,0,FC Dallas,0
+2009,2009-07-11,Chicago Fire,0,0,Columbus Crew,0
+2009,2009-07-11,New England Revolution,0,0,Sporting Kansas City,0
+2009,2009-07-11,Seattle Sounders,2,1,Houston Dynamo,0
+2009,2009-07-16,New York Red Bulls,1,3,Los Angeles Galaxy,0
+2009,2009-07-18,Chicago Fire,2,0,San Jose Earthquakes,0
+2009,2009-07-18,Columbus Crew,3,1,Real Salt Lake,0
+2009,2009-07-18,DC United,3,1,Colorado Rapids,0
+2009,2009-07-18,Toronto FC,1,1,Houston Dynamo,0
+2009,2009-07-19,New England Revolution,2,0,Chivas USA,0
+2009,2009-07-24,Real Salt Lake,4,2,FC Dallas,0
+2009,2009-07-25,San Jose Earthquakes,2,2,DC United,0
+2009,2009-07-25,Colorado Rapids,4,0,New York Red Bulls,0
+2009,2009-07-25,Sporting Kansas City,1,1,Los Angeles Galaxy,0
+2009,2009-07-25,Houston Dynamo,0,1,New England Revolution,0
+2009,2009-07-25,Columbus Crew,3,2,Toronto FC,0
+2009,2009-07-25,Seattle Sounders,0,0,Chicago Fire,0
+2009,2009-08-01,Colorado Rapids,0,1,Columbus Crew,0
+2009,2009-08-01,Chicago Fire,1,0,Real Salt Lake,0
+2009,2009-08-01,FC Dallas,6,0,Sporting Kansas City,0
+2009,2009-08-01,Houston Dynamo,4,3,DC United,0
+2009,2009-08-01,New England Revolution,1,1,Toronto FC,0
+2009,2009-08-02,San Jose Earthquakes,4,0,Seattle Sounders,0
+2009,2009-08-06,FC Dallas,1,0,Houston Dynamo,0
+2009,2009-08-08,Colorado Rapids,4,0,Chivas USA,0
+2009,2009-08-08,Real Salt Lake,1,0,Seattle Sounders,0
+2009,2009-08-08,San Jose Earthquakes,0,3,Columbus Crew,0
+2009,2009-08-08,New England Revolution,1,2,Los Angeles Galaxy,0
+2009,2009-08-09,Houston Dynamo,3,2,Chicago Fire,0
+2009,2009-08-15,Los Angeles Galaxy,0,2,Seattle Sounders,0
+2009,2009-08-15,Real Salt Lake,0,0,Houston Dynamo,0
+2009,2009-08-15,Columbus Crew,2,0,FC Dallas,0
+2009,2009-08-15,New York Red Bulls,0,2,Chivas USA,0
+2009,2009-08-15,Toronto FC,2,0,DC United,0
+2009,2009-08-16,Sporting Kansas City,0,2,Chicago Fire,0
+2009,2009-08-19,Chicago Fire,0,2,Los Angeles Galaxy,0
+2009,2009-08-20,Seattle Sounders,0,1,New England Revolution,0
+2009,2009-08-22,Chivas USA,2,0,Toronto FC,0
+2009,2009-08-22,San Jose Earthquakes,1,0,Sporting Kansas City,0
+2009,2009-08-22,DC United,0,0,Los Angeles Galaxy,0
+2009,2009-08-23,Houston Dynamo,1,1,Seattle Sounders,0
+2009,2009-08-23,Chicago Fire,3,2,Colorado Rapids,0
+2009,2009-08-23,New England Revolution,3,1,Real Salt Lake,0
+2009,2009-08-23,New York Red Bulls,3,2,FC Dallas,0
+2009,2009-08-26,Real Salt Lake,4,0,Chivas USA,0
+2009,2009-08-29,Los Angeles Galaxy,1,0,Chivas USA,0
+2009,2009-08-29,Chicago Fire,0,1,DC United,0
+2009,2009-08-29,Sporting Kansas City,0,1,Real Salt Lake,0
+2009,2009-08-29,New England Revolution,2,1,San Jose Earthquakes,0
+2009,2009-08-29,Seattle Sounders,0,0,Toronto FC,0
+2009,2009-08-30,New York Red Bulls,1,0,Columbus Crew,0
+2009,2009-08-30,Colorado Rapids,1,0,Houston Dynamo,0
+2009,2009-09-05,Colorado Rapids,1,0,Toronto FC,0
+2009,2009-09-05,FC Dallas,2,2,DC United,0
+2009,2009-09-05,New England Revolution,2,4,Sporting Kansas City,0
+2009,2009-09-09,DC United,1,0,Sporting Kansas City,0
+2009,2009-09-12,Los Angeles Galaxy,3,6,FC Dallas,0
+2009,2009-09-12,Real Salt Lake,1,1,Chicago Fire,0
+2009,2009-09-12,DC United,1,2,Seattle Sounders,0
+2009,2009-09-12,New York Red Bulls,0,1,Sporting Kansas City,0
+2009,2009-09-12,Toronto FC,3,2,Colorado Rapids,0
+2009,2009-09-13,Columbus Crew,2,1,Houston Dynamo,0
+2009,2009-09-13,Chivas USA,2,0,New England Revolution,0
+2009,2009-09-18,San Jose Earthquakes,1,1,Colorado Rapids,0
+2009,2009-09-18,New York Red Bulls,1,1,New England Revolution,0
+2009,2009-09-19,Los Angeles Galaxy,2,0,Toronto FC,0
+2009,2009-09-19,Houston Dynamo,3,2,Real Salt Lake,0
+2009,2009-09-19,Sporting Kansas City,3,2,FC Dallas,0
+2009,2009-09-19,Seattle Sounders,0,0,Chivas USA,0
+2009,2009-09-20,Chicago Fire,2,2,Columbus Crew,0
+2009,2009-09-23,Colorado Rapids,1,1,San Jose Earthquakes,0
+2009,2009-09-26,Chivas USA,1,1,New York Red Bulls,0
+2009,2009-09-26,Chicago Fire,2,2,Toronto FC,0
+2009,2009-09-26,FC Dallas,3,0,Real Salt Lake,0
+2009,2009-09-26,Sporting Kansas City,0,0,Colorado Rapids,0
+2009,2009-09-26,Columbus Crew,2,0,Los Angeles Galaxy,0
+2009,2009-09-26,New England Revolution,2,1,Seattle Sounders,0
+2009,2009-09-27,DC United,1,2,San Jose Earthquakes,0
+2009,2009-09-30,FC Dallas,1,0,New England Revolution,0
+2009,2009-10-02,Los Angeles Galaxy,1,0,Chicago Fire,0
+2009,2009-10-03,San Jose Earthquakes,1,0,New York Red Bulls,0
+2009,2009-10-03,Colorado Rapids,1,1,New England Revolution,0
+2009,2009-10-03,Columbus Crew,0,1,Seattle Sounders,0
+2009,2009-10-03,DC United,0,2,Chivas USA,0
+2009,2009-10-04,Houston Dynamo,1,1,Sporting Kansas City,0
+2009,2009-10-07,San Jose Earthquakes,1,2,FC Dallas,0
+2009,2009-10-10,Chivas USA,2,0,Sporting Kansas City,0
+2009,2009-10-10,New England Revolution,0,1,Columbus Crew,0
+2009,2009-10-10,Toronto FC,1,1,San Jose Earthquakes,0
+2009,2009-10-14,Real Salt Lake,2,0,New York Red Bulls,0
+2009,2009-10-17,Chivas USA,2,2,San Jose Earthquakes,0
+2009,2009-10-17,FC Dallas,2,1,Colorado Rapids,0
+2009,2009-10-17,Sporting Kansas City,2,3,Seattle Sounders,0
+2009,2009-10-17,DC United,1,0,Columbus Crew,0
+2009,2009-10-17,New England Revolution,0,0,Chicago Fire,0
+2009,2009-10-17,Toronto FC,1,0,Real Salt Lake,0
+2009,2009-10-18,Houston Dynamo,0,0,Los Angeles Galaxy,0
+2009,2009-10-22,Chicago Fire,1,0,Chivas USA,0
+2009,2009-10-24,Los Angeles Galaxy,2,0,San Jose Earthquakes,0
+2009,2009-10-24,Seattle Sounders,2,1,FC Dallas,0
+2009,2009-10-24,Real Salt Lake,3,0,Colorado Rapids,0
+2009,2009-10-24,Sporting Kansas City,2,2,DC United,0
+2009,2009-10-24,New York Red Bulls,5,0,Toronto FC,0
+2009,2009-10-25,Columbus Crew,0,1,New England Revolution,0
+2009,2009-10-25,Chivas USA,2,3,Houston Dynamo,0
+2009,2009-10-29,Seattle Sounders,0,0,Houston Dynamo,0
+2009,2009-10-31,Real Salt Lake,1,0,Columbus Crew,0
+2009,2009-11-01,Chivas USA,2,2,Los Angeles Galaxy,0
+2009,2009-11-01,New England Revolution,2,1,Chicago Fire,0
+2009,2009-11-05,Columbus Crew,2,3,Real Salt Lake,0
+2009,2009-11-07,Chicago Fire,2,0,New England Revolution,0
+2009,2009-11-08,Los Angeles Galaxy,1,0,Chivas USA,0
+2009,2009-11-08,Houston Dynamo,1,0,Seattle Sounders,1
+2009,2009-11-13,Los Angeles Galaxy,2,0,Houston Dynamo,1
+2009,2009-11-14,Chicago Fire,0,1,Real Salt Lake,1
+2009,2009-11-22,Los Angeles Galaxy,1,2,Real Salt Lake,1
 2010,2010-03-25,Seattle Sounders,2,0,Philadelphia Union,0
 2010,2010-03-26,Chivas USA,0,1,Colorado Rapids,0
 2010,2010-03-27,Los Angeles Galaxy,1,0,New England Revolution,0
