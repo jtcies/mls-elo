@@ -96,11 +96,6 @@ win_prob <- bind_rows(home_win_prob, away_win_prob) %>%
       win_prob > 0.5 & win == 0 ~ 1,
       win_prob > 0.5 & win == 1 ~ 0,
       TRUE ~ NA_real_
-    ),
-    big_loss = case_when(
-      win_prob > 0.6 & win == 0 ~ 1,
-      win_prob > 0.6 & win == 1 ~ 0,
-      TRUE ~ NA_real_
     )
   )
 
@@ -113,8 +108,7 @@ win_prob %>%
   group_by(team) %>% 
   summarise(
     mean_upset_loss = mean(upset_loss, na.rm = TRUE),
-    mean_upset_win = mean(upset_win, na.rm = TRUE),
-    mean_big_loss = mean(big_loss, na.rm = TRUE)
+    mean_upset_win = mean(upset_win, na.rm = TRUE)
   ) %>% 
   arrange(desc(mean_upset_loss)) %>% 
   as.data.frame()
@@ -143,3 +137,16 @@ complete_elo %>%
     geom_line()
 
 # write -----------
+
+folders <- c("data/processed/", "../../jtcies_site2/content/data/mls/")
+
+walk(folders, ~write_csv(complete_elo, here::here(.x, "complete_elo.csv")))
+
+games_write <- games %>% 
+  select(1:7) %>% 
+  bind_cols(games_elo %>% select(3, 5:7))
+
+walk(folders, ~write_csv(games_write, here::here(.x, "mls_1998-2018_elo.csv")))
+
+walk(folders, ~write_csv(win_prob, 
+                           here::here(.x, "win_probabilities.csv")))
