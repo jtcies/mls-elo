@@ -5,10 +5,10 @@ source(here::here("src/helper_funs.R"))
 
 # params ---------
 # from grid search
-
-k_value = 18
-home_bonus = 100
-carry_value = 0.55
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+k_value = 30
+home_bonus = 90
+carry_value = .5
 initial_elo = NULL
 
 # import ---------------
@@ -57,7 +57,6 @@ complete_elo <- bind_rows(home, away) %>%
     elo_before = if_else(is.na(elo_before), 1500, elo_before)
   ) %>% 
   ungroup()
-
 
 # win prob for each game
 
@@ -116,7 +115,28 @@ win_prob %>%
   arrange(desc(mean_upset_loss)) %>% 
   as.data.frame()
 
+win_prob %>% 
+  group_by(team) %>% 
+  summarise(mean_upset_loss = mean(upset_loss, na.rm = TRUE)) %>% 
+  ggplot(aes(reorder(team, mean_upset_loss), mean_upset_loss)) +
+    geom_point(size = 3) +
+    coord_flip()
 
+u_big_loss <- win_prob %>% 
+  filter(team == "Philadelphia Union", upset_loss == 1) %>% 
+  arrange(desc(win_prob))
+
+games_elo %>% 
+  bind_cols(games_date) %>% 
+  filter(team.A == "Philadelphia Union" | team.B == "Philadelphia Union") %>% 
+  right_join(u_big_loss, by = "date") %>% 
+  select(date, team.A, team.B, u_win_prob = win_prob) %>% 
+  arrange(desc(u_win_prob))
+
+complete_elo %>% 
+  filter(team == "Philadelphia Union") %>% 
+  ggplot(aes(date, elo_before)) +
+    geom_line()
 
 # write -----------
 

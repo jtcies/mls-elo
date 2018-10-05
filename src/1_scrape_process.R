@@ -101,16 +101,20 @@ teams <- games %>%
   rename(team = home_team) %>% 
   mutate(
     season = case_when(
+      team %in% c("Los Angeles Galaxy", "Real Salt Lake") ~ 2005,
+      team == "Houston Dynamo" ~ 2006,
+      team == "Toronto FC" ~ 2007,
+      team == "Seattle Sounders" ~ 2009,
+      team == "Philadelphia Union" ~ 2010,
       team %in% c("Vancouver Whitecaps", "Portland Timbers") ~ 2011,
       team == "Montreal Impact" ~ 2012,
       team %in% c("New York City", "Orlando City") ~ 2015,
       team %in% c("Atlanta United", "Minnesota") ~ 2017,
       team == "Los Angeles FC" ~ 2018,
-      TRUE ~ 2010
+      TRUE ~ 1998
     ),
     elo = case_when(
-      team == "Philadelphia Union" ~ 1300,
-      season != 2010 ~ 1300,
+      season != 1998 ~ 1300,
       TRUE ~ 1500
     ),
     date = ymd(paste0(season, "0301"))
