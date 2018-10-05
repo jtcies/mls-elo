@@ -20,6 +20,7 @@ params <- expand.grid(
   carry_value = carry_value
 )
 
+
 # find ideal params -----------
 
 # all params together
@@ -43,7 +44,6 @@ teams <- "data/processed/mls_teams.csv" %>%
   read_csv() %>% 
   arrange(team)
 
-
 initial_elos <- teams$elo
 names(initial_elos) <- teams$team
 
@@ -62,23 +62,29 @@ params_final %>%
 # k only
 
 best_k <- map(k_value, grid_search, initial_elos = NULL,
-              carry_value = 1, home_bonus = 0)
+              carry_value = 0, home_bonus = 0)
 
 best_k <- data.frame(k_value, auc = unlist(best_k))
+
+best_k %>% arrange(desc(auc))
 
 # home bonus
 
 best_bonus <- map(home_bonus, grid_search, initial_elos = NULL,
-                  k_value = 24, carry_value = 1)
+                  k_value = 24, carry_value = 0)
 
 best_bonus <- data.frame(home_bonus, auc = unlist(best_bonus))
+
+best_bonus %>% arrange(desc(auc))
 
 # carry value
 
 best_carry <- map(carry_value, grid_search, initial_elos = NULL,
                   k_value = 24, home_bonus = 0)
 
-best_carry <- data.frame(carry_value, auc = unlist(best_carry))
+best_carry <- data.frame(carry_value, auc = unlist(best_carry)) 
+
+best_carry %>% arrange(desc(auc))
 
 # visualize --------------
 

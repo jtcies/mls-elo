@@ -6,10 +6,9 @@ source(here::here("src/helper_funs.R"))
 # params ---------
 # from grid search
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-k_value = 30
-home_bonus = 90
-carry_value = .5
-initial_elo = NULL
+k_value = 24
+home_bonus = 100
+carry_value = 0.4
 
 # import ---------------
 
@@ -21,10 +20,18 @@ teams <- "data/processed/mls_teams.csv" %>%
   here::here() %>% 
   read_csv()
 
+initial_elos <- teams$elo
+names(initial_elos) <- teams$team
+
+games$k_col <- map_dbl(
+  abs(games$home_final - games$away_final), 
+  ~k_fun(k_value, .x)
+)
+
 # run functions ---------------------
 
-elo_results <- elo_run(k_value = k_value, home_bonus = home_bonus,
-                       carry_value = carry_value, initial_elos = initial_elo)
+elo_results <- elo_run(k_value = games$k_col, home_bonus = home_bonus,
+                       carry_value = carry_value, initial_elos = NULL)
 
 games_elo <- as.data.frame(elo_results)
 
@@ -52,10 +59,7 @@ bind_cols(games_date)
 complete_elo <- bind_rows(home, away) %>% 
   group_by(team) %>% 
   arrange(date) %>% 
-  mutate(
-    elo_before = lag(elo_after),
-    elo_before = if_else(is.na(elo_before), 1500, elo_before)
-  ) %>% 
+  mutate(elo_before = lag(elo_after)) %>% 
   ungroup()
 
 # win prob for each game
@@ -139,4 +143,3 @@ complete_elo %>%
     geom_line()
 
 # write -----------
-

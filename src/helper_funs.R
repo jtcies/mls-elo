@@ -104,9 +104,25 @@ accuracy_count <- function(games, complete_elo) {
 }
 
 elo_run <- function(k_value, home_bonus, carry_value, initial_elos) {
-  elo.run(score(home_final, away_final) ~ adjust(home_team, home_bonus) +
-                 away_team + regress(season, 1500, carry_value),
-               data = games,
-               k = k_value,
-               initial.elos = initial_elos)
+  elo.run(
+    score(home_final, away_final) ~ adjust(home_team, home_bonus) +
+      away_team + regress(season, 1500, carry_value) + 
+      k(k_value),
+    data = games,
+    initial.elos = initial_elos
+  )
+}
+
+k_fun <- function(k_value, goal_diff) {
+  
+  if (goal_diff < 2) {
+    k_value
+  } else if(goal_diff == 2) {
+    k_value * 1.5
+  } else if(goal_diff == 3) {
+    k_value * 1.75
+  } else if(goal_diff >= 4) {
+    k_value + ((0.75 + (goal_diff - 3)/8) * k_value)
+  }
+   
 }
